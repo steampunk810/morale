@@ -12716,3 +12716,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 18:08:17.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=436, y=76, z=-554} BlockPos{x=435, y=75, z=-553}
 [11Dec2024 18:08:17.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=76, z=-554} BlockPos{x=437, y=75, z=-554}
 [11Dec2024 18:08:18.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=437, y=76, z=-555} BlockPos{x=437, y=75, z=-554}
+[11Dec2024 18:09:45.396] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
+[11Dec2024 18:09:45.397] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
+[11Dec2024 18:09:54.030] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[11Dec2024 18:10:02.485] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[11Dec2024 18:10:09.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has completed the challenge [When the Stew is Sus]
+[11Dec2024 18:10:10.124] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[11Dec2024 18:10:10.125] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[11Dec2024 18:10:10.125] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=177}
+[11Dec2024 18:10:10.125] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=178}
+[11Dec2024 18:10:19.875] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[11Dec2024 18:10:19.876] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[11Dec2024 18:10:19.877] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=177}
+[11Dec2024 18:10:19.877] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=178}
+[11Dec2024 18:11:18.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[11Dec2024 18:12:48.547] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[11Dec2024 18:12:48.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 18:12:48.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <melman810> marico
+[11Dec2024 18:12:52.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moralepri23> a
+[11Dec2024 18:12:54.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <melman810> ya me voy
+[11Dec2024 18:13:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moralepri23> y entonce
+[11Dec2024 18:13:11.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: melman810 lost connection: Disconnected
+[11Dec2024 18:13:11.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 left the game
+[11Dec2024 18:13:11.971] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
+[11Dec2024 18:14:58.143] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-12, z=84}
+[11Dec2024 18:14:58.143] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=-12, z=88}
+[11Dec2024 18:14:58.292] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=8, z=13}
+[11Dec2024 18:14:58.293] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=10, z=19}
+[11Dec2024 18:14:58.294] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=10, z=24}
+[11Dec2024 18:14:59.788] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-12, z=86}
+[11Dec2024 18:14:59.789] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-12, z=84}
+[11Dec2024 18:14:59.789] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[11Dec2024 18:15:26.443] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=-12, z=79}
+[11Dec2024 18:15:26.443] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-12, z=78}
+[11Dec2024 18:15:26.444] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-12, z=81}
+[11Dec2024 18:15:26.444] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=-12, z=81}
+[11Dec2024 18:15:26.444] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-12, z=80}
+[11Dec2024 18:15:26.444] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-12, z=83}
+[11Dec2024 18:15:28.138] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=13, z=4}
+[11Dec2024 18:16:07.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Penteconter]
+[11Dec2024 18:16:35.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[11Dec2024 18:16:43.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/monobank/Thief$Offence
+[11Dec2024 18:17:06.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
