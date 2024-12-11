@@ -1818,6 +1818,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-11 17:35:33 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2024-12-11 02:03:31 +0000"
@@ -1959,6 +1965,12 @@
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2024-12-11 02:08:09 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2024-12-11 17:33:41 +0000"
     },
     "done": true
   },
@@ -2354,6 +2366,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-11 17:31:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 01:31:50 +0000"
@@ -2598,6 +2616,12 @@
   "enigmaticlegacy:recipes/generic/the_acknowledgment": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2024-12-11 17:33:41 +0000"
     },
     "done": true
   },
@@ -2904,6 +2928,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-11 17:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-11 17:31:27 +0000"
     },
     "done": true
   },
@@ -3625,6 +3655,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-11 17:33:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 17:22:10 +0000"
@@ -4100,6 +4136,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-11 17:31:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2024-12-11 01:32:12 +0000"
@@ -4400,6 +4442,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_items": "2024-12-11 17:28:48 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 02:44:55 +0000"
@@ -4583,6 +4631,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-10 18:04:42 +0000"
+    },
+    "done": true
+  },
+  "chalk:adventure/get_skeleton_skull": {
+    "criteria": {
+      "slept_in_bed": "2024-12-11 17:35:43 +0000"
     },
     "done": true
   },
@@ -4913,6 +4967,12 @@
   "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-10 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-11 17:31:50 +0000"
     },
     "done": true
   },

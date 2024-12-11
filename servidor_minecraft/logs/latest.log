@@ -12593,3 +12593,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 17:27:13.158] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [11Dec2024 17:27:13.164] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to moralepri23
 [11Dec2024 17:27:15.882] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to moralepri23 (7475c504-1df9-3778-8347-56ba558987a5)
+[11Dec2024 17:31:37.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/14846, l='ServerLevel[world]', x=790.50, y=57.00, z=-490.50]
+[11Dec2024 17:32:43.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[11Dec2024 17:35:33.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Close Quarters]
+[11Dec2024 17:35:34.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Close Quarters]
+[11Dec2024 17:35:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Bound By Bone]

@@ -607,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-11 17:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-11 01:20:31 +0000"
@@ -802,12 +808,6 @@
       "has_chalk": "2024-12-11 01:22:16 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
   },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
@@ -1150,12 +1150,6 @@
       "has_stick": "2024-12-11 01:26:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
   },
   "woodworks:recipes/decorations/sawmill": {
     "criteria": {
@@ -1541,12 +1535,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-11 02:01:03 +0000"
@@ -1594,12 +1582,6 @@
       "has_gold_ingot": "2024-12-11 17:22:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1689,15 +1671,15 @@
     },
     "done": true
   },
-  "woodworks:recipes/redstone/jungle_trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-12-11 17:20:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/jungle_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
     },
     "done": true
   },
@@ -1748,12 +1730,6 @@
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
   },
   "twigs:recipes/tables/oak_table": {
     "criteria": {
@@ -1976,12 +1952,6 @@
       "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
   },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
@@ -2250,6 +2220,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-11 01:19:40 +0000",
+      "supplementaries:candy": "2024-12-11 17:34:31 +0000",
       "bread": "2024-12-11 01:19:34 +0000",
       "golden_carrot": "2024-12-11 02:08:14 +0000"
     },
@@ -2357,15 +2328,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 17:21:56 +0000"
-    },
-    "done": true
-  },
   "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 17:21:56 +0000"
     },
     "done": true
   },
@@ -2651,12 +2622,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 01:20:07 +0000"
@@ -2813,6 +2778,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_deepslate_brick_slab": "2024-12-11 17:33:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-11 01:28:33 +0000"
@@ -2915,11 +2886,11 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "lootr:25loot": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
+      "loot_stat": "2024-12-11 17:35:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
@@ -2974,12 +2945,6 @@
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
@@ -3390,15 +3355,15 @@
     },
     "done": true
   },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
-    "criteria": {
-      "has_iron_pickaxe": "2024-12-11 17:23:56 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gunpowder": "2024-12-11 17:17:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-11 17:23:56 +0000"
     },
     "done": true
   },
@@ -3595,12 +3560,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-11 01:48:59 +0000"
@@ -3618,12 +3577,6 @@
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
@@ -3643,12 +3596,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 17:24:48 +0000"
-    },
-    "done": false
-  },
   "idas:apothecary_abode": {
     "criteria": {
       "in_apothecary_abode": "2024-12-11 01:59:39 +0000"
@@ -3658,6 +3605,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 01:20:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-11 17:33:25 +0000"
     },
     "done": true
   },
