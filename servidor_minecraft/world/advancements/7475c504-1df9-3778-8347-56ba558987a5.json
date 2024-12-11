@@ -906,6 +906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-11 17:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 01:20:07 +0000"
@@ -1227,6 +1233,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:21:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-11 18:03:42 +0000"
     },
     "done": true
   },
@@ -2200,6 +2212,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 17:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:26:15 +0000"
@@ -2412,6 +2430,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-11 18:02:56 +0000",
       "apple": "2024-12-11 01:19:40 +0000",
       "supplementaries:candy": "2024-12-11 17:34:31 +0000",
       "bread": "2024-12-11 01:19:34 +0000",
@@ -3349,6 +3368,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 17:58:47 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2024-12-11 02:08:29 +0000"
@@ -3764,6 +3789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-11 17:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -4038,6 +4069,12 @@
   "thinair:recipes/thinair.main/air_bladder": {
     "criteria": {
       "in_dangerous_air": "2024-12-11 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-11 17:58:47 +0000"
     },
     "done": true
   },

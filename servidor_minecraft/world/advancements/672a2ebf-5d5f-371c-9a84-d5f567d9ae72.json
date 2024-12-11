@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "twigs:recipes/copper_pillar/waxed_exposed_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2024-12-11 17:56:48 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-11 01:20:42 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-11 17:58:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-11 17:19:56 +0000"
@@ -176,6 +188,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/thin_cherry_log": {
+    "criteria": {
+      "has_log": "2024-12-11 17:58:24 +0000"
     },
     "done": true
   },
@@ -212,6 +230,12 @@
   "environmental:recipes/building_blocks/cherry_bookshelf": {
     "criteria": {
       "has_book": "2024-12-11 02:08:30 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_log": {
+    "criteria": {
+      "has_log": "2024-12-11 17:58:24 +0000"
     },
     "done": true
   },
@@ -594,6 +618,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-11 17:58:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-11 02:54:20 +0000"
@@ -651,6 +681,12 @@
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2024-12-11 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 17:56:48 +0000"
     },
     "done": true
   },
@@ -771,6 +807,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-11 02:04:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-11 17:58:08 +0000"
     },
     "done": true
   },
@@ -1272,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 17:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 01:31:50 +0000"
@@ -1329,6 +1377,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-11 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-11 18:05:47 +0000"
     },
     "done": true
   },
@@ -1428,6 +1482,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-12-11 17:58:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 01:31:50 +0000"
@@ -1467,6 +1527,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-11 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-11 18:05:47 +0000"
     },
     "done": true
   },
@@ -1704,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-11 18:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-11 01:18:23 +0000"
@@ -1875,6 +1947,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "pyrologernfriends:get_off_my_property": {
+    "criteria": {
+      "get_off_my_property": "2024-12-11 18:05:46 +0000"
     },
     "done": true
   },
@@ -2055,6 +2133,12 @@
   "woodworks:recipes/decorations/crimson_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-11 17:57:46 +0000"
     },
     "done": true
   },
@@ -2299,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 17:56:48 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
@@ -2398,6 +2488,12 @@
   "woodworks:recipes/building_blocks/spruce_boards_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-11 17:57:50 +0000"
     },
     "done": true
   },
@@ -3045,6 +3141,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/cooking/vegetable_omelet": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 17:58:08 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-10 18:04:42 +0000"
@@ -3054,6 +3156,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2024-12-11 18:01:23 +0000"
     },
     "done": true
   },
@@ -3327,6 +3435,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-11 17:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-11 01:33:48 +0000"
@@ -3573,6 +3687,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-11 17:58:24 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2024-12-11 17:39:57 +0000"
@@ -3582,6 +3702,12 @@
   "thinair:signal_torch": {
     "criteria": {
       "use": "2024-12-11 17:40:48 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherrywood_planks_from_thin_cherrywood_log": {
+    "criteria": {
+      "has_item": "2024-12-11 17:58:24 +0000"
     },
     "done": true
   },
@@ -4064,6 +4190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 17:56:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_cushion": "2024-12-11 01:31:50 +0000"
@@ -4079,6 +4211,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2024-12-11 02:08:30 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/egg_grog": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 17:58:08 +0000"
     },
     "done": true
   },
@@ -4127,6 +4265,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 17:56:48 +0000"
     },
     "done": true
   },
@@ -4355,7 +4499,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-11 01:21:03 +0000",
-      "bread": "2024-12-11 01:21:28 +0000"
+      "bread": "2024-12-11 01:21:28 +0000",
+      "golden_carrot": "2024-12-11 18:03:48 +0000"
     },
     "done": false
   },
@@ -4449,6 +4594,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-12-11 17:58:08 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-12-10 18:04:43 +0000"
@@ -4506,6 +4657,12 @@
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2024-12-11 01:32:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-11 17:58:08 +0000"
     },
     "done": true
   },
@@ -5304,6 +5461,12 @@
   "cgm:recipes/cgm/short_scope": {
     "criteria": {
       "has_redstone": "2024-12-11 17:39:57 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_wood": {
+    "criteria": {
+      "has_cherry_log": "2024-12-11 17:58:24 +0000"
     },
     "done": true
   },
