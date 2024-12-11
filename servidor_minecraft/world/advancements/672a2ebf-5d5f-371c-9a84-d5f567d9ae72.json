@@ -180,6 +180,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-11 02:34:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2024-12-11 01:27:42 +0000"
@@ -3133,6 +3139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-11 02:35:00 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/glacia_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:43 +0000"
@@ -3834,6 +3846,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2024-12-10 18:04:41 +0000",
       "inv_changed-diamond": "2024-12-10 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-11 02:35:00 +0000"
     },
     "done": true
   },

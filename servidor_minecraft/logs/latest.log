@@ -12818,3 +12818,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 02:20:38.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moralepri23 lost connection: Disconnected
 [11Dec2024 02:20:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 left the game
 [11Dec2024 02:20:38.707] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5
+[11Dec2024 02:35:35.720] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
