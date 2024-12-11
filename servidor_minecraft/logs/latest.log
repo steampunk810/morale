@@ -12805,3 +12805,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 02:06:57.770] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player melman810 picking up: PermanentItemEntity['Extradimensional Vessel'/58472, l='ServerLevel[world]', x=647.08, y=72.56, z=-0.33]
 [11Dec2024 02:06:57.771] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/58472, l='ServerLevel[world]', x=647.08, y=72.56, z=-0.33]
 [11Dec2024 02:08:08.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Tools of the Trade]
+[11Dec2024 02:08:25.157] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[11Dec2024 02:08:30.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Cloud Storage]
+[11Dec2024 02:08:36.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Diamonds!]
+[11Dec2024 02:09:48.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Diamonds!]
+[11Dec2024 02:10:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Disme A Dozen]
+[11Dec2024 02:11:02.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Disme A Dozen]
+[11Dec2024 02:13:25.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[11Dec2024 02:15:20.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [What a Deal!]
+[11Dec2024 02:17:18.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures

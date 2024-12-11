@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-11 02:08:05 +0000"
+    },
+    "done": false
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2024-12-11 01:26:06 +0000"
@@ -43,9 +49,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-12-11 01:21:08 +0000"
+      "has_parent_recipe": "2024-12-11 01:21:08 +0000",
+      "has_items": "2024-12-11 02:09:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
@@ -101,6 +108,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-12-11 02:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-11 01:48:59 +0000"
@@ -119,6 +132,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2024-12-11 02:08:29 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -128,6 +147,12 @@
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2024-12-11 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
     },
     "done": true
   },
@@ -224,6 +249,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/stone_blacksmith_gavel": {
     "criteria": {
       "has_stone_tool_materials": "2024-12-11 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-12-11 02:11:48 +0000"
     },
     "done": true
   },
@@ -474,6 +505,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-11 02:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-11 01:20:31 +0000"
@@ -513,6 +556,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-12-11 02:11:48 +0000"
     },
     "done": true
   },
@@ -624,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-11 02:04:27 +0000",
@@ -689,6 +744,12 @@
   "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:37:36 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_glowstone": "2024-12-11 02:11:48 +0000"
     },
     "done": true
   },
@@ -803,6 +864,12 @@
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
     },
     "done": true
   },
@@ -1019,6 +1086,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-11 02:11:48 +0000"
     },
     "done": true
   },
@@ -1361,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -1619,6 +1698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/mangrove_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:43 +0000"
@@ -1636,6 +1721,12 @@
       "has_parent_recipe": "2024-12-11 01:21:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
@@ -1667,6 +1758,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2024-12-11 01:19:37 +0000"
@@ -1694,7 +1791,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-11 01:19:40 +0000",
-      "bread": "2024-12-11 01:19:34 +0000"
+      "bread": "2024-12-11 01:19:34 +0000",
+      "golden_carrot": "2024-12-11 02:08:14 +0000"
     },
     "done": false
   },
@@ -1884,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-11 01:27:09 +0000"
@@ -1986,6 +2090,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-11 02:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-11 01:21:06 +0000"
@@ -2082,9 +2192,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-11 01:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-11 02:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
     },
     "done": true
   },
@@ -2154,6 +2282,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
@@ -2214,9 +2348,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-11 01:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
     },
     "done": true
   },
@@ -2316,6 +2462,12 @@
     },
     "done": true
   },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -2352,9 +2504,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-11 02:08:11 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_slab_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2024-12-11 02:08:29 +0000"
     },
     "done": true
   },
@@ -2478,6 +2648,18 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-11 02:09:48 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-12-11 02:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
@@ -2550,6 +2732,12 @@
     },
     "done": true
   },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2024-12-11 02:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-11 01:21:06 +0000"
@@ -2595,6 +2783,12 @@
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "temperature": "2024-12-11 01:14:34 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2024-12-11 02:09:48 +0000"
     },
     "done": true
   },
@@ -2680,6 +2874,12 @@
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
     },
     "done": true
   },
@@ -2779,9 +2979,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2024-12-11 02:11:48 +0000"
+    },
+    "done": true
+  },
   "thinair:recipes/thinair.main/air_bladder": {
     "criteria": {
       "in_dangerous_air": "2024-12-11 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-11 02:09:48 +0000"
     },
     "done": true
   },
