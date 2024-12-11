@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2024-12-10 18:05:30 +0000"
@@ -86,6 +92,18 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/shield": {
+    "criteria": {
+      "has_shield": "2024-12-11 02:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -143,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-11 01:27:27 +0000"
@@ -152,6 +176,12 @@
   "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-11 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -356,6 +386,12 @@
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/environmental/pine_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -647,6 +683,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_boards": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_eye": {
     "criteria": {
       "impossible": "2024-12-11 01:22:17 +0000"
@@ -685,6 +727,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-11 02:04:27 +0000",
       "minecraft:skeleton": "2024-12-11 01:35:01 +0000",
       "minecraft:spider": "2024-12-11 01:33:40 +0000",
       "minecraft:zombie": "2024-12-11 01:34:54 +0000",
@@ -695,6 +738,12 @@
   "chalk:recipes/tools/chalk_box": {
     "criteria": {
       "has_chalk": "2024-12-11 01:21:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/environmental/pine_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:52 +0000"
     },
     "done": true
   },
@@ -818,6 +867,12 @@
     },
     "done": true
   },
+  "environmental:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-11 01:49:27 +0000"
@@ -845,6 +900,24 @@
   "cgm:recipes/cgm/mini_gun": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/environmental/pine_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_fence_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -917,6 +990,12 @@
   "pyrologernfriends:pyrologer_and_friends": {
     "criteria": {
       "pyrologer_and_friends": "2024-12-10 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/environmental/pine_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -1022,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-11 02:04:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
@@ -1073,6 +1158,12 @@
   "goodending:recipes/cypress_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -1148,6 +1239,12 @@
     },
     "done": true
   },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2024-12-11 02:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-11 01:51:38 +0000"
@@ -1193,6 +1290,12 @@
   "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-12-11 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -1256,9 +1359,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-11 01:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/environmental/pine_couch": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -1310,6 +1425,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-12-10 18:04:42 +0000"
@@ -1331,6 +1452,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/environmental/pine_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -1375,6 +1502,12 @@
   "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:18:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/environmental/pine_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:52 +0000"
     },
     "done": true
   },
@@ -1540,6 +1673,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_slab_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:20:59 +0000"
@@ -1561,6 +1700,12 @@
   "design_decor:recipes/design_decor/metal_sheet_slab_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -1693,6 +1838,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/environmental/pine_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -1852,6 +2003,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/environmental/pine_bench": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 01:49:27 +0000"
@@ -1861,6 +2018,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:44 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/pine_boards": {
+    "criteria": {
+      "has_pine_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -1885,6 +2048,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-11 01:59:15 +0000"
     },
     "done": true
   },
@@ -1918,6 +2087,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/environmental/pine_desk": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:18:23 +0000"
@@ -1934,6 +2109,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-11 01:27:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -2027,6 +2208,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/environmental/pine_window": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:27:27 +0000"
@@ -2099,6 +2286,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
@@ -2108,6 +2301,12 @@
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2024-12-11 01:32:12 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -2132,6 +2331,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/environmental/pine_table": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -2255,6 +2460,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/handcrafted.main/hc/environmental/pine_counter": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/ender_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 01:49:27 +0000"
@@ -2285,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-11 01:59:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
@@ -2309,6 +2526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-11 01:20:57 +0000"
@@ -2330,6 +2553,12 @@
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2024-12-11 01:32:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-11 02:01:53 +0000"
     },
     "done": true
   },
@@ -2375,9 +2604,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/environmental/pine_table": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:27:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/miners_delight/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_button_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -2423,6 +2676,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/environmental/pine_chair": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:44 +0000"
@@ -2438,6 +2697,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/iron_blacksmith_gavel": {
     "criteria": {
       "has_ingots/iron": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -2462,6 +2727,12 @@
   "cgm:recipes/cgm/rifle": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/c/environmental/pine_window_pane": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:52 +0000"
     },
     "done": true
   },
@@ -2507,6 +2778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 01:31:50 +0000"
@@ -2522,6 +2799,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-11 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/environmental/pine_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -2657,9 +2940,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/environmental/pine_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-11 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 01:59:15 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/pine_vertical_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-12-11 02:01:52 +0000"
     },
     "done": true
   },
@@ -2711,10 +3018,22 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 01:59:15 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 01:49:27 +0000",
       "has_items": "2024-12-11 01:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -2826,6 +3145,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-11 01:26:58 +0000"
@@ -2844,15 +3169,45 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_boards_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/jellyshroom_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:43 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-11 01:32:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-11 02:03:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -2907,6 +3262,12 @@
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "temperature": "2024-12-10 18:06:31 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },
@@ -3067,6 +3428,18 @@
     },
     "done": true
   },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2024-12-11 01:59:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-11 02:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -3100,6 +3473,12 @@
   "environmental:recipes/decorations/pine_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:03:31 +0000"
     },
     "done": true
   },
@@ -3184,6 +3563,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 02:01:51 +0000"
     },
     "done": true
   },

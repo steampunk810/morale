@@ -12771,3 +12771,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 01:57:07.203] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: 444.30000001192093, Y: 72.0, Z: 175.69999998807907
 [11Dec2024 01:57:25.337] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/55791, l='ServerLevel[world]', x=444.30, y=73.50, z=175.70]
 [11Dec2024 01:57:25.337] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/55791, l='ServerLevel[world]', x=444.30, y=73.50, z=175.70]
+[11Dec2024 01:58:27.440] [pool-6-thread-2/WARN] [ModernFix/]: The namespace idas contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 01:59:39.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [The Apothecary's Abode]
+[11Dec2024 01:59:41.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [The Apothecary's Abode]
+[11Dec2024 01:59:57.179] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[11Dec2024 01:59:57.186] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-12, z=84}
+[11Dec2024 01:59:57.187] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=-12, z=88}
+[11Dec2024 01:59:57.233] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-12, z=86}
+[11Dec2024 01:59:57.234] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-12, z=84}
+[11Dec2024 01:59:57.234] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[11Dec2024 02:01:04.477] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=-12, z=79}
+[11Dec2024 02:01:04.478] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-12, z=78}
+[11Dec2024 02:01:04.478] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-12, z=81}
+[11Dec2024 02:01:04.478] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=-12, z=81}
+[11Dec2024 02:01:04.478] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-12, z=80}
+[11Dec2024 02:01:04.479] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-12, z=83}
+[11Dec2024 02:04:16.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[11Dec2024 02:04:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Not Today, Thank You]
+[11Dec2024 02:04:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Not Today, Thank You]
+[11Dec2024 02:05:12.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Boo!]
+[11Dec2024 02:05:16.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was shot by Illusioner
+[11Dec2024 02:05:16.407] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: 642.0154421882435, Y: 71.3125, Z: 10.161753554837983
+[11Dec2024 02:05:22.726] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/58082, l='ServerLevel[world]', x=642.02, y=72.81, z=10.16]
+[11Dec2024 02:05:22.726] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/58082, l='ServerLevel[world]', x=642.02, y=72.81, z=10.16]
+[11Dec2024 02:05:31.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 was shot by Illusioner
+[11Dec2024 02:05:31.906] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for melman810 at X: 647.7619589994529, Y: 68.7531999805212, Z: 19.681129477669252
+[11Dec2024 02:05:52.277] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player melman810 picking up: PermanentItemEntity['Extradimensional Vessel'/58163, l='ServerLevel[world]', x=647.76, y=70.25, z=19.68]
+[11Dec2024 02:05:52.277] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/58163, l='ServerLevel[world]', x=647.76, y=70.25, z=19.68]
+[11Dec2024 02:06:10.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Voluntary Exile]
+[11Dec2024 02:06:37.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [He Was Number One!]
+[11Dec2024 02:06:48.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 was shot by Pillager
+[11Dec2024 02:06:48.705] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for melman810 at X: 647.0831372264388, Y: 71.0625, Z: -0.32635193700428955
+[11Dec2024 02:06:57.770] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player melman810 picking up: PermanentItemEntity['Extradimensional Vessel'/58472, l='ServerLevel[world]', x=647.08, y=72.56, z=-0.33]
+[11Dec2024 02:06:57.771] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/58472, l='ServerLevel[world]', x=647.08, y=72.56, z=-0.33]
+[11Dec2024 02:08:08.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Tools of the Trade]
