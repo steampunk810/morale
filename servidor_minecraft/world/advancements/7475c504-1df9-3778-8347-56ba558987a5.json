@@ -793,6 +793,7 @@
       "minecraft:pillager": "2024-12-11 02:04:27 +0000",
       "minecraft:skeleton": "2024-12-11 01:40:05 +0000",
       "minecraft:creeper": "2024-12-11 17:17:05 +0000",
+      "minecraft:cave_spider": "2024-12-11 17:39:02 +0000",
       "minecraft:zombie": "2024-12-11 01:36:57 +0000"
     },
     "done": false
@@ -2031,6 +2032,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-11 17:35:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
@@ -2442,6 +2449,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-11 17:39:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
@@ -2841,6 +2854,12 @@
   "immersivepetroleum:recipes/decorations/candle": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-11 17:35:58 +0000"
     },
     "done": true
   },
@@ -3457,6 +3476,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-11 17:42:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-11 17:21:56 +0000"
@@ -3560,6 +3585,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-11 17:42:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-11 01:48:59 +0000"
@@ -3593,6 +3624,18 @@
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-11 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-11 17:39:30 +0000"
     },
     "done": true
   },
@@ -3737,6 +3780,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-11 17:39:30 +0000"
     },
     "done": true
   },

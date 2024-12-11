@@ -12598,3 +12598,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 17:35:33.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Close Quarters]
 [11Dec2024 17:35:34.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Close Quarters]
 [11Dec2024 17:35:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Bound By Bone]
+[11Dec2024 17:40:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Ooh, ES-CAPE]
+[11Dec2024 17:42:34.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Ol' Betsy]
+[11Dec2024 17:42:34.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Take Aim]
+[11Dec2024 17:43:04.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Flexible Schedule]
+[11Dec2024 17:43:10.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 was slain by Skeleton
+[11Dec2024 17:43:10.469] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for melman810 at X: 733.5604855032379, Y: 59.0, Z: -400.30000001192093
+[11Dec2024 17:43:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by Murmur
+[11Dec2024 17:43:21.565] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: 722.0886486523015, Y: 60.0, Z: -410.9998758685342
+[11Dec2024 17:45:01.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 hit the ground too hard whilst trying to escape Murmur
+[11Dec2024 17:45:52.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Flexible Schedule]
+[11Dec2024 17:45:55.290] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player melman810 picking up: PermanentItemEntity['Extradimensional Vessel'/16232, l='ServerLevel[world]', x=733.56, y=60.50, z=-400.30]
+[11Dec2024 17:45:55.290] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/16232, l='ServerLevel[world]', x=733.56, y=60.50, z=-400.30]
+[11Dec2024 17:46:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by Murmur
+[11Dec2024 17:46:50.694] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/16400, l='ServerLevel[world]', x=722.09, y=61.50, z=-411.00]
+[11Dec2024 17:46:50.695] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/16400, l='ServerLevel[world]', x=722.09, y=61.50, z=-411.00]
