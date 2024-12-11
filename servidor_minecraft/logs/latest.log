@@ -12721,3 +12721,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 01:35:24.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity pyrologernfriends:event_wandering_traitor but it was marked as removed already
 [11Dec2024 01:35:59.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
 [11Dec2024 01:36:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Monster Hunter]
+[11Dec2024 01:38:45.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by Cog Minion
+[11Dec2024 01:38:45.201] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: 90.73799565078093, Y: 72.0, Z: 121.20201978936274
+[11Dec2024 01:39:23.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/9638, l='ServerLevel[world]', x=90.74, y=73.50, z=121.20]
+[11Dec2024 01:39:23.178] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/9638, l='ServerLevel[world]', x=90.74, y=73.50, z=121.20]
+[11Dec2024 01:39:37.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 was slain by Skeleton
+[11Dec2024 01:39:37.801] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for melman810 at X: 82.01814502802391, Y: 79.79673560066871, Z: 163.51456359052455
+[11Dec2024 01:39:48.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was shot by Sky Carrier
+[11Dec2024 01:39:48.757] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: 88.18162347971546, Y: 77.41999998688698, Z: 138.69999998807907
+[11Dec2024 01:39:51.747] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player melman810 picking up: PermanentItemEntity['Extradimensional Vessel'/9847, l='ServerLevel[world]', x=82.02, y=81.30, z=163.51]
+[11Dec2024 01:39:51.748] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/9847, l='ServerLevel[world]', x=82.02, y=81.30, z=163.51]
+[11Dec2024 01:40:05.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Boo!]
+[11Dec2024 01:40:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Shards of the Past]
+[11Dec2024 01:40:25.075] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/9940, l='ServerLevel[world]', x=88.18, y=78.92, z=138.70]
+[11Dec2024 01:40:25.075] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/9940, l='ServerLevel[world]', x=88.18, y=78.92, z=138.70]
+[11Dec2024 01:43:41.900] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting baguchan/revampedwolf/api/WolfTypes
+[11Dec2024 01:43:41.921] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/infamous/all_bark_all_bite/common/behavior/long_jump/LeapAtTarget$State
+[11Dec2024 01:43:41.931] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/infamous/all_bark_all_bite/common/behavior/hunter/StalkAndPounce$State
+[11Dec2024 01:43:44.714] [Worker-Main-5/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 01:43:44.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[11Dec2024 01:43:46.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[11Dec2024 01:44:32.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[11Dec2024 01:44:36.599] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[11Dec2024 01:45:01.631] [Worker-Main-5/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 01:45:24.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36861ms or 737 ticks behind
+[11Dec2024 01:45:31.948] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[11Dec2024 01:45:36.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/upgrade_aquatic/common/entity/ai/goal/thrasher/ThrasherFireSonarGoal$SonarPhase
+[11Dec2024 01:45:54.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[11Dec2024 01:46:06.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Mine? Mine? Mine?]
