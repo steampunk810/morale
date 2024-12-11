@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:26:02 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-12-11 01:14:34 +0000"
@@ -391,6 +403,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2024-12-11 01:44:58 +0000",
       "tundra": "2024-12-11 01:43:39 +0000"
     },
     "done": false
@@ -642,6 +655,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
@@ -732,6 +751,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-11 01:54:52 +0000"
+    },
+    "done": true
+  },
   "pyrologernfriends:pyrologer_and_friends": {
     "criteria": {
       "pyrologer_and_friends": "2024-12-11 01:14:32 +0000"
@@ -783,6 +808,12 @@
   "woodworks:recipes/decorations/sawmill": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-11 01:54:52 +0000"
     },
     "done": true
   },
@@ -936,6 +967,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -1008,6 +1045,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -1029,6 +1072,12 @@
   "brewinandchewin:recipes/brewinandchewin/fermenting/beer": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-11 01:46:06 +0000"
     },
     "done": true
   },
@@ -1058,9 +1107,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-11 01:53:27 +0000",
+      "minecraft:taiga": "2024-12-11 01:52:09 +0000",
       "minecraft:river": "2024-12-11 01:17:55 +0000",
       "minecraft:snowy_plains": "2024-12-11 01:22:46 +0000",
       "minecraft:stony_shore": "2024-12-11 01:44:52 +0000",
+      "environmental:pine_barrens": "2024-12-11 01:52:17 +0000",
+      "environmental:old_growth_pine_barrens": "2024-12-11 01:53:23 +0000",
       "minecraft:forest": "2024-12-11 01:30:45 +0000",
       "minecraft:meadow": "2024-12-11 01:15:18 +0000",
       "minecraft:plains": "2024-12-11 01:14:35 +0000"
@@ -1160,6 +1213,12 @@
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
     },
     "done": true
   },
@@ -1596,6 +1655,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-11 01:28:33 +0000"
@@ -1665,6 +1730,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
     },
     "done": true
   },
@@ -1785,6 +1856,12 @@
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
     },
     "done": true
   },
@@ -1950,6 +2027,12 @@
     },
     "done": true
   },
+  "delightful:recipes/melon_slice": {
+    "criteria": {
+      "has_mini_melon": "2024-12-11 01:47:21 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/rifle": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -2073,6 +2156,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-11 01:53:37 +0000"
     },
     "done": true
   },
@@ -2226,6 +2315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -2338,6 +2433,12 @@
   "cgm:recipes/cgm/pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
     },
     "done": true
   },
@@ -2458,6 +2559,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 01:20:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2024-12-11 01:48:59 +0000"
     },
     "done": true
   },
