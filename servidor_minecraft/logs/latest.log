@@ -12691,3 +12691,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 01:21:08.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Acquire Hardware]
 [11Dec2024 01:21:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Suit Up]
 [11Dec2024 01:21:53.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[11Dec2024 01:22:39.194] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=170, y=63, z=406} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[11Dec2024 01:22:39.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=170, y=63, z=406}
+[11Dec2024 01:24:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Shards of the Past]
+[11Dec2024 01:24:13.252] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 01:24:23.084] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[11Dec2024 01:24:23.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9856ms or 197 ticks behind
+[11Dec2024 01:26:25.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[11Dec2024 01:26:51.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10671ms or 213 ticks behind
+[11Dec2024 01:27:09.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Stone Age]
+[11Dec2024 01:27:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Getting an Upgrade]
+[11Dec2024 01:27:58.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Stone Age]
+[11Dec2024 01:28:33.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Getting an Upgrade]
+[11Dec2024 01:29:37.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Thin Air]
+[11Dec2024 01:29:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [I'd Take a Deep Breath...]
+[11Dec2024 01:30:20.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Thin Air]
+[11Dec2024 01:30:20.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [I'd Take a Deep Breath...]
+[11Dec2024 01:30:27.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity pyrologernfriends:event_roaming_eskologers but it was marked as removed already
+[11Dec2024 01:30:48.812] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting se/mickelus/tetra/blocks/forged/hammer/HammerEffect
+[11Dec2024 01:30:54.398] [Worker-Main-5/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 01:32:12.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Elemental Might]
+[11Dec2024 01:32:26.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Hot Stuff]
+[11Dec2024 01:32:27.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Ice Bucket Challenge]
+[11Dec2024 01:33:40.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Monster Hunter]
+[11Dec2024 01:33:55.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by melman810
+[11Dec2024 01:33:55.631] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: 129.4694299050192, Y: 72.0, Z: 122.09807016427919
+[11Dec2024 01:33:55.717] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player melman810 picking up: PermanentItemEntity['Extradimensional Vessel'/7117, l='ServerLevel[world]', x=129.47, y=73.50, z=122.10]
+[11Dec2024 01:33:55.718] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/7117, l='ServerLevel[world]', x=129.47, y=73.50, z=122.10]
+[11Dec2024 01:35:24.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity pyrologernfriends:event_wandering_traitor but it was marked as removed already
+[11Dec2024 01:35:59.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[11Dec2024 01:36:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Monster Hunter]
