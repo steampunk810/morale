@@ -12759,3 +12759,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 18:16:43.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/monobank/Thief$Offence
 [11Dec2024 18:17:06.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [11Dec2024 18:20:07.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16436ms or 328 ticks behind
+[11Dec2024 18:31:13.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beckie'/23258, l='ServerLevel[world]', x=555.70, y=100.00, z=-872.30] died, message: 'Beckie was slain by Zombie'
+[11Dec2024 18:31:13.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Beckie'/23258, l='ServerLevel[world]', x=555.70, y=100.00, z=-872.30] died: Beckie was slain by Zombie
+[11Dec2024 18:31:37.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moralepri23 lost connection: Disconnected
+[11Dec2024 18:31:37.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 left the game
+[11Dec2024 18:31:37.120] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5
