@@ -12613,3 +12613,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 17:46:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by Murmur
 [11Dec2024 17:46:50.694] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/16400, l='ServerLevel[world]', x=722.09, y=61.50, z=-411.00]
 [11Dec2024 17:46:50.695] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/16400, l='ServerLevel[world]', x=722.09, y=61.50, z=-411.00]
+[11Dec2024 17:49:23.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Cover Me with Diamonds]
+[11Dec2024 17:49:42.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Cover Me with Diamonds]
+[11Dec2024 17:56:47.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity pyrologernfriends:event_wandering_traitor but it was marked as removed already
+[11Dec2024 17:57:13.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity pyrologernfriends:event_wandering_traitor but it was marked as removed already
+[11Dec2024 17:58:26.759] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[11Dec2024 17:58:34.186] [Worker-Main-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting se/mickelus/tetra/blocks/forged/hammer/HammerEffect
+[11Dec2024 17:58:34.939] [Worker-Main-13/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
