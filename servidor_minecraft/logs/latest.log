@@ -12758,3 +12758,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 18:16:35.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [11Dec2024 18:16:43.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/mortuusars/monobank/Thief$Offence
 [11Dec2024 18:17:06.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[11Dec2024 18:20:07.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16436ms or 328 ticks behind
