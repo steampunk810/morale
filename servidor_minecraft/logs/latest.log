@@ -12819,3 +12819,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 02:20:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 left the game
 [11Dec2024 02:20:38.707] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5
 [11Dec2024 02:35:35.720] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
+[11Dec2024 02:39:14.474] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[11Dec2024 02:39:25.963] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[11Dec2024 02:39:25.966] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-556, y=0, z=20}
+[11Dec2024 02:39:25.966] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=0, z=20}
+[11Dec2024 02:39:25.966] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-550, y=-1, z=26}
+[11Dec2024 02:39:25.966] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-558, y=-1, z=25}
+[11Dec2024 02:39:25.966] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 02:39:26.131] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-558, y=-1, z=29}
+[11Dec2024 02:39:26.131] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 02:39:26.133] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 02:39:39.930] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[11Dec2024 02:39:39.933] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[11Dec2024 02:39:42.082] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-219, y=-9, z=40}
+[11Dec2024 02:39:42.119] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-213, y=-9, z=35}
+[11Dec2024 02:39:42.120] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=-9, z=33}
+[11Dec2024 02:39:42.536] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=-9, z=33}
+[11Dec2024 02:39:42.537] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-9, z=38}
+[11Dec2024 02:39:42.538] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-233, y=-9, z=36}
+[11Dec2024 02:39:42.538] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-233, y=-9, z=35}
+[11Dec2024 02:39:52.122] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=-7, z=-52}
+[11Dec2024 02:39:52.123] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=-7, z=-53}
+[11Dec2024 02:39:52.127] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=-7, z=-53}
+[11Dec2024 02:39:58.727] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=-2, z=33}
+[11Dec2024 02:39:58.728] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=-8, z=36}
+[11Dec2024 02:39:58.728] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=-7, z=36}
+[11Dec2024 02:39:58.728] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 02:39:58.857] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-256, y=-8, z=41}
+[11Dec2024 02:39:58.857] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=-9, z=41}
+[11Dec2024 02:39:58.858] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=-8, z=41}
+[11Dec2024 02:39:59.480] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 02:39:59.481] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 02:39:59.710] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-263, y=-6, z=37}
+[11Dec2024 02:39:59.710] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-263, y=-7, z=38}
+[11Dec2024 02:39:59.710] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-263, y=-7, z=36}
+[11Dec2024 02:39:59.710] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-265, y=-8, z=37}
+[11Dec2024 02:39:59.711] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-261, y=-2, z=33}
+[11Dec2024 02:39:59.711] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=-2, z=33}
+[11Dec2024 02:39:59.711] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 02:39:59.768] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=13, z=4}
+[11Dec2024 02:42:29.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Home Is Where the Bed Is]
