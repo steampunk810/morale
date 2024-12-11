@@ -12814,3 +12814,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 02:13:25.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [11Dec2024 02:15:20.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [What a Deal!]
 [11Dec2024 02:17:18.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[11Dec2024 02:19:31.351] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[11Dec2024 02:20:38.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moralepri23 lost connection: Disconnected
+[11Dec2024 02:20:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 left the game
+[11Dec2024 02:20:38.707] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5

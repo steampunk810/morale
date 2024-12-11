@@ -2977,6 +2977,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-11 02:15:20 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-10 18:05:16 +0000"
@@ -3912,6 +3918,12 @@
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-11 02:21:37 +0000"
     },
     "done": true
   },
