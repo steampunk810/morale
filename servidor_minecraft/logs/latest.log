@@ -12859,3 +12859,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [11Dec2024 02:39:59.711] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [11Dec2024 02:39:59.768] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=13, z=4}
 [11Dec2024 02:42:29.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Home Is Where the Bed Is]
+[11Dec2024 02:52:31.924] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 02:56:52.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: melman810 lost connection: Disconnected
+[11Dec2024 02:56:52.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 left the game
+[11Dec2024 02:56:52.701] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
