@@ -1,0 +1,17 @@
+{
+	id: "7475c504-1df9-3778-8347-56ba558987a5"
+	type: "player"
+	player_name: "moralepri23"
+	ranks: {
+		7475c504-1df9-3778-8347-56ba558987a5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "moralepri23"
+		"ftbteams:description": ""
+		"ftbteams:color": "#596BFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
