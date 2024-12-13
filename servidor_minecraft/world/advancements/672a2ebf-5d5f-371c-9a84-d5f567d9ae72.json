@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:26:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 02:44:55 +0000"
@@ -578,6 +584,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_sword": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:26:27 +0000"
     },
     "done": true
   },
@@ -1440,6 +1452,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/chiseled_bricks": {
+    "criteria": {
+      "has_item": "2024-12-13 23:26:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/fir_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-13 21:11:57 +0000"
@@ -1623,6 +1641,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks": {
+    "criteria": {
+      "has_item": "2024-12-13 23:26:27 +0000"
     },
     "done": true
   },
@@ -1842,6 +1866,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-13 23:26:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 02:44:55 +0000"
@@ -1923,6 +1953,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/blasting/arcane_crystal_dust_from_blasting": {
     "criteria": {
       "has_item": "2024-12-13 20:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:26:27 +0000"
     },
     "done": true
   },
@@ -3018,6 +3054,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/chiseled_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:26:27 +0000"
+    },
+    "done": true
+  },
   "pyrologernfriends:get_off_my_property": {
     "criteria": {
       "get_off_my_property": "2024-12-11 18:05:46 +0000"
@@ -3775,6 +3817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:26:27 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-11 17:19:56 +0000"
@@ -4346,6 +4394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:26:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2024-12-11 17:39:57 +0000"
@@ -4602,6 +4656,12 @@
   "clayworks:recipes/building_blocks/cracked_stone_bricks_from_baking": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 19:47:53 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 23:26:27 +0000"
     },
     "done": true
   },
@@ -5008,6 +5068,7 @@
       "seasonal_orchard": "2024-12-13 19:54:14 +0000",
       "fir_clearing": "2024-12-11 18:10:08 +0000",
       "snowy_coniferous_forest": "2024-12-13 23:08:28 +0000",
+      "snowy_fir_clearing": "2024-12-13 23:29:42 +0000",
       "tundra": "2024-12-11 01:45:00 +0000"
     },
     "done": false
@@ -5384,6 +5445,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:26:27 +0000"
     },
     "done": true
   },
@@ -6130,7 +6197,10 @@
       "environmental:pine_barrens": "2024-12-11 01:52:33 +0000",
       "environmental:old_growth_pine_barrens": "2024-12-11 01:53:40 +0000",
       "minecraft:forest": "2024-12-11 01:31:45 +0000",
+      "minecraft:frozen_ocean": "2024-12-13 23:31:26 +0000",
+      "environmental:snowy_old_growth_pine_barrens": "2024-12-13 23:29:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 02:40:03 +0000",
+      "minecraft:snowy_beach": "2024-12-13 23:30:01 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 02:39:38 +0000",
       "minecraft:meadow": "2024-12-10 18:04:43 +0000",
       "minecraft:plains": "2024-12-10 18:05:13 +0000"
@@ -6911,6 +6981,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 23:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2024-12-11 01:59:15 +0000"
@@ -6920,6 +6996,12 @@
   "blue_skies:recipes/decorations/furnace_compat": {
     "criteria": {
       "has_item": "2024-12-13 21:20:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/cracked_bricks": {
+    "criteria": {
+      "has_item": "2024-12-13 23:26:27 +0000"
     },
     "done": true
   },
@@ -7709,6 +7791,12 @@
   "handcrafted:recipes/misc/orange_sheet": {
     "criteria": {
       "has_sheet": "2024-12-11 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-13 23:26:27 +0000"
     },
     "done": true
   },

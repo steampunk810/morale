@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:27:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -116,6 +122,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/stone_blacksmith_gavel": {
     "criteria": {
       "has_stone_tool_materials": "2024-12-11 01:27:09 +0000"
@@ -254,6 +272,12 @@
   "create:recipes/create.base/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -383,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_pillar_trim": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
@@ -464,6 +494,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_sword": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:27:48 +0000"
     },
     "done": true
   },
@@ -551,6 +587,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -563,6 +605,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -572,6 +620,12 @@
   "immersiveposts:recipes/immersiveposts/postbase": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -651,6 +705,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -1152,6 +1212,24 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/chiseled_bricks": {
+    "criteria": {
+      "has_item": "2024-12-13 23:27:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-13 23:30:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -1284,9 +1362,21 @@
     },
     "done": true
   },
+  "aether_redux:recipes/transportation/cloudcap_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 17:22:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks": {
+    "criteria": {
+      "has_item": "2024-12-13 23:27:48 +0000"
     },
     "done": true
   },
@@ -1416,6 +1506,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
@@ -1467,6 +1563,12 @@
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-13 23:27:48 +0000"
     },
     "done": true
   },
@@ -1527,6 +1629,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/blasting/arcane_crystal_dust_from_blasting": {
     "criteria": {
       "has_item": "2024-12-13 20:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:27:48 +0000"
     },
     "done": true
   },
@@ -1662,6 +1770,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/smooth_sandstone_from_baking": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab": {
     "criteria": {
       "has_item": "2024-12-11 18:12:05 +0000"
@@ -1737,6 +1851,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 19:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
     },
     "done": true
   },
@@ -1853,6 +1973,12 @@
       "has_parent_recipe": "2024-12-13 19:21:09 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
@@ -1992,6 +2118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 01:20:07 +0000"
@@ -2100,6 +2232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-13 23:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
@@ -2115,6 +2253,12 @@
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-13 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -2139,6 +2283,18 @@
   "chalk:adventure/sleep_three_times_in_one_place": {
     "criteria": {
       "sleep_three_times_in_one_place": "2024-12-13 23:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -2394,6 +2550,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/chiseled_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:27:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
@@ -2634,6 +2796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-11 17:21:54 +0000"
@@ -2856,6 +3024,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 01:21:08 +0000",
@@ -2929,6 +3103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
@@ -2983,9 +3163,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:27:48 +0000"
     },
     "done": true
   },
@@ -3025,6 +3217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gunpowder": "2024-12-11 17:17:07 +0000"
@@ -3046,6 +3244,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-13 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -3094,6 +3298,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-13 21:27:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2024-12-13 23:30:30 +0000"
     },
     "done": true
   },
@@ -3464,6 +3674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:27:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2024-12-13 20:05:32 +0000"
@@ -3723,6 +3939,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 23:27:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2024-12-11 01:31:12 +0000"
@@ -3873,6 +4095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-11 01:14:34 +0000"
@@ -3924,6 +4152,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_deep_crypt": "2024-12-13 20:27:35 +0000",
+      "entered_tall_witch_hut": "2024-12-13 23:23:59 +0000",
       "entered_watch_tower": "2024-12-13 21:24:00 +0000",
       "entered_ruined_building": "2024-12-13 21:29:13 +0000"
     },
@@ -4037,6 +4266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -4073,6 +4308,7 @@
       "seasonal_forest": "2024-12-13 21:14:34 +0000",
       "fir_clearing": "2024-12-11 18:10:56 +0000",
       "snowy_coniferous_forest": "2024-12-13 23:08:57 +0000",
+      "snowy_fir_clearing": "2024-12-13 23:29:41 +0000",
       "tundra": "2024-12-11 01:43:39 +0000"
     },
     "done": false
@@ -4116,6 +4352,18 @@
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2024-12-13 19:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-13 23:30:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -4317,6 +4565,7 @@
       "minecraft:skeleton": "2024-12-11 01:40:05 +0000",
       "minecraft:vindicator": "2024-12-13 21:03:10 +0000",
       "minecraft:creeper": "2024-12-11 17:17:05 +0000",
+      "minecraft:witch": "2024-12-13 23:24:00 +0000",
       "minecraft:cave_spider": "2024-12-11 17:39:02 +0000",
       "minecraft:enderman": "2024-12-11 18:11:35 +0000",
       "minecraft:zombie": "2024-12-11 01:36:57 +0000",
@@ -4432,6 +4681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 23:27:48 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/stun_grenade": {
     "criteria": {
       "has_glowstone": "2024-12-11 02:11:48 +0000"
@@ -4501,6 +4756,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_fancy_bed": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -4798,6 +5059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-11 02:11:48 +0000"
@@ -4855,6 +5122,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-13 19:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
     },
     "done": true
   },
@@ -5062,8 +5335,11 @@
       "environmental:old_growth_pine_barrens": "2024-12-11 01:53:23 +0000",
       "minecraft:forest": "2024-12-11 01:30:45 +0000",
       "minecraft:ice_spikes": "2024-12-13 21:17:17 +0000",
+      "minecraft:frozen_ocean": "2024-12-13 23:31:29 +0000",
+      "environmental:snowy_old_growth_pine_barrens": "2024-12-13 23:30:11 +0000",
       "minecraft:ocean": "2024-12-13 21:04:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 17:18:09 +0000",
+      "minecraft:snowy_beach": "2024-12-13 23:30:15 +0000",
       "minecraft:meadow": "2024-12-11 01:15:18 +0000",
       "minecraft:plains": "2024-12-11 01:14:35 +0000"
     },
@@ -5195,6 +5471,12 @@
     },
     "done": true
   },
+  "environmental:recipes/transportation/wisteria_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
@@ -5216,6 +5498,12 @@
   "enigmaticlegacy:recipes/generic/lore_inscriber": {
     "criteria": {
       "has_recipe_result": "2024-12-13 19:57:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -5342,6 +5630,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2024-12-13 21:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-13 23:30:38 +0000"
     },
     "done": true
   },
@@ -5480,6 +5774,12 @@
   "railways:recipes/railways/crafting/smokestack_long": {
     "criteria": {
       "has_item": "2024-12-13 21:31:26 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -5663,6 +5963,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/transportation/blightwillow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
@@ -5699,9 +6005,21 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 23:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-11 18:10:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/cracked_bricks": {
+    "criteria": {
+      "has_item": "2024-12-13 23:27:48 +0000"
     },
     "done": true
   },
@@ -5726,6 +6044,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -6025,9 +6349,21 @@
     },
     "done": true
   },
+  "aether_redux:recipes/transportation/crystal_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -6160,6 +6496,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -6319,9 +6661,21 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/glass_from_baking": {
+    "criteria": {
+      "has_sand": "2024-12-13 23:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2024-12-11 17:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },
@@ -6382,6 +6736,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-13 23:27:48 +0000"
     },
     "done": true
   },
@@ -6947,6 +7307,12 @@
   "cgm:recipes/cgm/pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:32:03 +0000"
     },
     "done": true
   },

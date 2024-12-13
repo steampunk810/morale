@@ -12753,3 +12753,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 23:23:52.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
 [13Dec2024 23:25:01.319] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-1075, y=81, z=-900} as the loot table 'wizards:chests/village_wizard' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
 [13Dec2024 23:25:10.107] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=-1075, y=93, z=-899} as the loot table 'wizards:chests/village_wizard' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[13Dec2024 23:29:36.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-960, y=63, z=-665} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 23:29:36.475] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-960, y=63, z=-665}
+[13Dec2024 23:29:37.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-961, y=63, z=-663} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 23:29:37.388] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-961, y=63, z=-663}
+[13Dec2024 23:29:37.454] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1015, y=63, z=-669} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 23:29:37.455] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-1015, y=63, z=-669}
+[13Dec2024 23:29:42.124] [Worker-Main-4/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Dec2024 23:30:06.100] [Worker-Main-4/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Dec2024 23:30:07.265] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[13Dec2024 23:30:07.266] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[13Dec2024 23:30:07.267] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[13Dec2024 23:30:07.267] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[13Dec2024 23:30:07.268] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[13Dec2024 23:30:07.268] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[13Dec2024 23:30:07.268] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[13Dec2024 23:30:08.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[13Dec2024 23:30:10.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/upgrade_aquatic/common/entity/ai/goal/thrasher/ThrasherFireSonarGoal$SonarPhase
+[13Dec2024 23:30:52.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Dec2024 23:33:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Ice Maze]
+[13Dec2024 23:33:05.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Ice Maze]
+[13Dec2024 23:33:10.759] [Worker-Main-4/WARN] [ModernFix/]: The namespace idas contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Dec2024 23:33:53.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[13Dec2024 23:34:11.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[13Dec2024 23:34:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Almost Like a Fan]
+[13Dec2024 23:34:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [The Light In The Darkness]
+[13Dec2024 23:34:43.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[13Dec2024 23:34:46.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Almost Like a Fan]
+[13Dec2024 23:35:34.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[13Dec2024 23:36:09.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[13Dec2024 23:36:14.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[13Dec2024 23:36:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Voluntary Exile]
