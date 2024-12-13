@@ -12608,3 +12608,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 20:47:16.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Howling Blades]
 [13Dec2024 20:47:31.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Howling Blades]
 [13Dec2024 20:49:57.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Send The Artillery!]
+[13Dec2024 21:02:09.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has reached the goal [Hunted]
+[13Dec2024 21:02:44.542] [Worker-Main-6/WARN] [ModernFix/]: The namespace ad_astra contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Dec2024 21:02:47.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
+[13Dec2024 21:02:52.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [You're Too Slow!]

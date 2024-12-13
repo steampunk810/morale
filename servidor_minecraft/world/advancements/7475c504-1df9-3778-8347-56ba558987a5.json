@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2024-12-11 02:06:37 +0000"
@@ -597,6 +603,12 @@
   "tetra:scrolls/root": {
     "criteria": {
       "find": "2024-12-13 19:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
     },
     "done": true
   },
@@ -891,6 +903,12 @@
   "create:recipes/create.base/crafting/materials/brass_ingot_from_compacting": {
     "criteria": {
       "has_item": "2024-12-11 18:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -1386,6 +1404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
@@ -1566,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
@@ -1707,6 +1737,12 @@
   "environmental:recipes/building_blocks/dirt_brick_vertical_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-11 01:17:35 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_deepslate_tiles_from_baking": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
     },
     "done": true
   },
@@ -1884,6 +1920,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:43 +0000"
@@ -1917,6 +1959,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-13 21:02:09 +0000"
     },
     "done": true
   },
@@ -2388,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_desk": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
@@ -2499,6 +2553,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 01:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -2863,6 +2923,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -2908,6 +2974,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_1": {
     "criteria": {
       "has_spruce_plank": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -3155,6 +3227,12 @@
   "extendedgears:recipes/extendedgears/crafting/shaftless_cogwheel": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -3852,6 +3930,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "cold_desert": "2024-12-11 01:44:58 +0000",
+      "lavender_forest": "2024-12-13 21:02:52 +0000",
       "coniferous_forest": "2024-12-11 18:11:06 +0000",
       "spider_nest": "2024-12-13 20:51:56 +0000",
       "seasonal_orchard": "2024-12-13 19:52:03 +0000",
@@ -4004,6 +4083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
@@ -4080,6 +4165,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-11 02:04:27 +0000",
       "minecraft:skeleton": "2024-12-11 01:40:05 +0000",
+      "minecraft:vindicator": "2024-12-13 21:03:10 +0000",
       "minecraft:creeper": "2024-12-11 17:17:05 +0000",
       "minecraft:cave_spider": "2024-12-11 17:39:02 +0000",
       "minecraft:enderman": "2024-12-11 18:11:35 +0000",
@@ -4181,6 +4267,12 @@
   "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:37:36 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -4568,6 +4660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_corner_trim": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
@@ -4595,6 +4693,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -4643,6 +4747,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2024-12-13 19:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
     },
     "done": true
   },
@@ -4748,9 +4858,21 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -5076,6 +5198,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -5097,6 +5231,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -5169,6 +5309,12 @@
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2024-12-13 20:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -5346,6 +5492,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
     "criteria": {
       "has_item": "2024-12-11 01:27:09 +0000"
@@ -5427,6 +5579,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -5523,6 +5681,24 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -5649,6 +5825,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -5841,6 +6023,12 @@
   "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-11 01:17:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },
@@ -6445,6 +6633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
@@ -6466,6 +6660,12 @@
   "design_decor:recipes/design_decor/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:03:31 +0000"
     },
     "done": true
   },

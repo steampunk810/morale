@@ -3150,6 +3150,12 @@
     },
     "done": true
   },
+  "pyrologernfriends:youre_too_slow": {
+    "criteria": {
+      "youre_too_slow": "2024-12-13 21:02:52 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
