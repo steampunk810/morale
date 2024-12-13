@@ -4633,6 +4633,7 @@
     "criteria": {
       "lavender_forest": "2024-12-13 20:14:32 +0000",
       "coniferous_forest": "2024-12-11 18:10:19 +0000",
+      "spider_nest": "2024-12-13 20:51:55 +0000",
       "seasonal_orchard": "2024-12-13 19:54:14 +0000",
       "fir_clearing": "2024-12-11 18:10:08 +0000",
       "tundra": "2024-12-11 01:45:00 +0000"
@@ -4896,6 +4897,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-11 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2024-12-13 20:47:31 +0000"
     },
     "done": true
   },
