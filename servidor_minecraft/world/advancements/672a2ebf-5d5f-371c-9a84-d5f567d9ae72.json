@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/dark_nether_star": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-12-13 19:28:31 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_blacksmith_gavel": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:12:34 +0000"
@@ -2491,6 +2497,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2024-12-13 19:32:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -3647,6 +3659,7 @@
       "minecraft:skeleton": "2024-12-11 01:35:01 +0000",
       "minecraft:vindicator": "2024-12-11 17:19:09 +0000",
       "minecraft:spider": "2024-12-11 01:33:40 +0000",
+      "minecraft:creeper": "2024-12-13 19:25:54 +0000",
       "minecraft:cave_spider": "2024-12-11 17:39:04 +0000",
       "minecraft:zombie": "2024-12-11 01:34:54 +0000",
       "minecraft:zombie_villager": "2024-12-11 01:40:16 +0000"
@@ -4408,6 +4421,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/processed_obsidian_block_from_obsidian_ingot": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-12-13 19:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
     "criteria": {
       "has_waxed_exposed_copper": "2024-12-11 17:56:48 +0000"
@@ -4821,6 +4840,12 @@
   "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-11 17:55:13 +0000"
+    },
+    "done": true
+  },
+  "thinair:lantern": {
+    "criteria": {
+      "place": "2024-12-13 19:28:10 +0000"
     },
     "done": true
   },
