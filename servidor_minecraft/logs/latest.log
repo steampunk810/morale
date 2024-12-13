@@ -12571,3 +12571,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 19:51:26.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
 [13Dec2024 19:57:16.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Lore Writer]
 [13Dec2024 20:00:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Lore Writer]
+[13Dec2024 20:09:04.143] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[13Dec2024 20:09:08.486] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[13Dec2024 20:09:40.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moralepri23 lost connection: Disconnected
+[13Dec2024 20:09:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 left the game
+[13Dec2024 20:09:40.108] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5
