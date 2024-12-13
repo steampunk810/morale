@@ -12562,3 +12562,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 19:44:01.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Fortune Seeker]
 [13Dec2024 19:44:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [The Beginning of An Adventure]
 [13Dec2024 19:46:36.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Perfectly Balanced]
+[13Dec2024 19:47:30.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[13Dec2024 19:47:30.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[13Dec2024 19:47:30.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 burned to death
+[13Dec2024 19:47:30.977] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: 596.3000000119209, Y: 19.171324983814085, Z: -885.3000000119209
+[13Dec2024 19:48:43.945] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/5899, l='ServerLevel[world]', x=596.30, y=20.67, z=-885.30]
+[13Dec2024 19:48:43.945] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/5899, l='ServerLevel[world]', x=596.30, y=20.67, z=-885.30]
+[13Dec2024 19:51:26.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness

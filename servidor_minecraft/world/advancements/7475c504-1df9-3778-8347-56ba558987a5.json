@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-11 01:27:33 +0000"
@@ -492,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
@@ -591,6 +603,12 @@
   "design_decor:recipes/design_decor/diorite_castel_tile_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_fence_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -882,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_ingot": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 17:22:42 +0000"
@@ -987,6 +1011,12 @@
   "environmental:recipes/decorations/wisteria_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:43 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -1188,6 +1218,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_slab_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -1320,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:49 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/andesite_castel_tile_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -1413,6 +1455,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:49 +0000"
     },
     "done": true
   },
@@ -1515,6 +1563,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:49 +0000"
     },
     "done": true
   },
@@ -1713,6 +1767,12 @@
   "clayworks:recipes/decorations/kiln": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:48 +0000"
     },
     "done": true
   },
@@ -1956,6 +2016,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-11 01:27:33 +0000"
@@ -1992,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:48 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
       "has_items": "2024-12-13 19:21:09 +0000"
@@ -2019,6 +2091,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -2103,6 +2181,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/sanity_meter": {
     "criteria": {
       "has_item": "2024-12-11 17:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:49 +0000"
     },
     "done": true
   },
@@ -2293,9 +2377,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_boards_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/jellyshroom_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -2308,6 +2410,18 @@
   "quark:get_bottled_cloud": {
     "criteria": {
       "get_bottled_cloud": "2024-12-11 02:08:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -2534,6 +2648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "thinair:root": {
     "criteria": {
       "bad_air": "2024-12-11 01:29:37 +0000"
@@ -2649,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
@@ -2661,6 +2787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-13 19:48:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
@@ -2670,6 +2802,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2024-12-11 02:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -2739,6 +2877,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/jungle_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
@@ -2772,6 +2916,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_stone_bricks_from_baking": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:49 +0000"
     },
     "done": true
   },
@@ -3061,6 +3211,7 @@
     "criteria": {
       "cold_desert": "2024-12-11 01:44:58 +0000",
       "coniferous_forest": "2024-12-11 18:11:06 +0000",
+      "seasonal_orchard": "2024-12-13 19:52:03 +0000",
       "fir_clearing": "2024-12-11 18:10:56 +0000",
       "tundra": "2024-12-11 01:43:39 +0000"
     },
@@ -3207,6 +3358,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_boards": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -3393,6 +3550,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -3747,6 +3910,12 @@
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -4534,6 +4703,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
@@ -4666,6 +4841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-11 02:09:48 +0000"
@@ -4738,9 +4919,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_button_from_spruce_planks_sawing": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
@@ -4931,6 +5124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-13 19:48:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
@@ -5030,6 +5229,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 19:46:15 +0000"
     },
     "done": true
   },
