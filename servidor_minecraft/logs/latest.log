@@ -12569,3 +12569,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 19:48:43.945] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/5899, l='ServerLevel[world]', x=596.30, y=20.67, z=-885.30]
 [13Dec2024 19:48:43.945] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/5899, l='ServerLevel[world]', x=596.30, y=20.67, z=-885.30]
 [13Dec2024 19:51:26.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[13Dec2024 19:57:16.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Lore Writer]
+[13Dec2024 20:00:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Lore Writer]
