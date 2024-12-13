@@ -708,6 +708,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2024-12-13 21:31:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-12-11 17:49:42 +0000"
@@ -753,6 +759,18 @@
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2024-12-13 21:31:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-13 21:33:51 +0000"
     },
     "done": true
   },
@@ -3055,6 +3073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 21:27:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/gravel_bricks/gravel_bricks": {
     "criteria": {
       "has_item": "2024-12-13 19:54:11 +0000"
@@ -3428,6 +3452,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2024-12-13 21:31:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 01:21:08 +0000",
@@ -3621,6 +3651,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2024-12-13 21:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -3702,6 +3738,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_nightstand": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 21:27:13 +0000"
     },
     "done": true
   },
@@ -3846,7 +3888,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_deep_crypt": "2024-12-13 20:27:35 +0000",
-      "entered_watch_tower": "2024-12-13 21:24:00 +0000"
+      "entered_watch_tower": "2024-12-13 21:24:00 +0000",
+      "entered_ruined_building": "2024-12-13 21:29:13 +0000"
     },
     "done": false
   },
@@ -4035,6 +4078,12 @@
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2024-12-13 19:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 21:27:13 +0000"
     },
     "done": true
   },
@@ -4522,6 +4571,12 @@
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2024-12-13 21:31:26 +0000"
     },
     "done": true
   },
@@ -5132,6 +5187,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-13 21:32:58 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/warped_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
@@ -5219,6 +5280,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2024-12-13 19:21:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-13 21:29:15 +0000"
     },
     "done": true
   },
@@ -5351,6 +5418,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2024-12-13 21:31:26 +0000"
     },
     "done": true
   },
@@ -5597,11 +5670,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2024-12-11 18:02:56 +0000",
+      "rabbit": "2024-12-13 21:27:16 +0000",
       "suspicious_stew": "2024-12-11 18:10:09 +0000",
       "apple": "2024-12-11 01:19:40 +0000",
       "potato": "2024-12-11 18:15:00 +0000",
       "supplementaries:candy": "2024-12-11 17:34:31 +0000",
       "bread": "2024-12-11 01:19:34 +0000",
+      "golden_apple": "2024-12-13 21:29:45 +0000",
       "golden_carrot": "2024-12-11 02:08:14 +0000"
     },
     "done": false
@@ -5963,6 +6038,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-11 01:21:06 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2024-12-13 21:31:26 +0000"
     },
     "done": true
   },
@@ -6375,6 +6456,12 @@
     },
     "done": true
   },
+  "pyrologernfriends:doot": {
+    "criteria": {
+      "doot": "2024-12-13 21:32:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 17:22:42 +0000"
@@ -6588,6 +6675,12 @@
   "environmental:recipes/decorations/willow_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2024-12-13 21:31:26 +0000"
     },
     "done": true
   },

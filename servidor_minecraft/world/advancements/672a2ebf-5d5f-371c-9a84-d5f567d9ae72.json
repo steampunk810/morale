@@ -906,6 +906,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2024-12-13 21:24:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-12-11 17:49:23 +0000"
@@ -975,6 +981,18 @@
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-11 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2024-12-13 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-13 21:33:39 +0000"
     },
     "done": true
   },
@@ -1536,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/environmental/pine_couch": {
     "criteria": {
       "has_planks": "2024-12-11 02:01:51 +0000"
@@ -1659,6 +1683,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
     },
     "done": true
   },
@@ -2460,6 +2490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-13 20:11:22 +0000"
@@ -2676,6 +2712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/redstone/pine_door": {
     "criteria": {
       "has_planks": "2024-12-11 02:01:51 +0000"
@@ -2886,6 +2928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-12-13 20:31:39 +0000"
@@ -2940,6 +2988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-11 17:39:57 +0000"
@@ -2967,6 +3021,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-12-13 19:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
     },
     "done": true
   },
@@ -3177,6 +3237,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/arcane_crystal_block_from_arcane_crystal": {
     "criteria": {
       "has_arcane_crystal": "2024-12-13 20:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
     },
     "done": true
   },
@@ -4100,6 +4166,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-13 21:24:24 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/pine_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:20:57 +0000"
@@ -4271,6 +4343,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-11 17:55:39 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2024-12-13 21:24:23 +0000"
     },
     "done": true
   },
@@ -4464,6 +4542,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/arcane_edelwood_planks": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2024-12-13 21:24:23 +0000"
     },
     "done": true
   },
@@ -4716,7 +4800,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2024-12-13 21:08:55 +0000",
-      "entered_deep_crypt": "2024-12-13 20:11:15 +0000"
+      "entered_deep_crypt": "2024-12-13 20:11:15 +0000",
+      "entered_ruined_building": "2024-12-13 21:29:59 +0000"
     },
     "done": false
   },
@@ -4819,6 +4904,12 @@
   "twigs:recipes/rhyolite/rhyolite": {
     "criteria": {
       "has_item": "2024-12-13 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
     },
     "done": true
   },
@@ -5086,6 +5177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 19:54:09 +0000"
@@ -5137,6 +5234,7 @@
       "minecraft:creeper": "2024-12-13 19:25:54 +0000",
       "minecraft:cave_spider": "2024-12-11 17:39:04 +0000",
       "minecraft:enderman": "2024-12-13 20:02:12 +0000",
+      "minecraft:silverfish": "2024-12-13 21:30:05 +0000",
       "minecraft:zombie": "2024-12-11 01:34:54 +0000",
       "minecraft:zombie_villager": "2024-12-11 01:40:16 +0000"
     },
@@ -5211,6 +5309,12 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2024-12-11 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
     },
     "done": true
   },
@@ -5529,6 +5633,12 @@
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-12-13 20:31:39 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2024-12-13 21:24:23 +0000"
     },
     "done": true
   },
@@ -6360,6 +6470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -6453,6 +6569,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2024-12-13 21:24:23 +0000"
     },
     "done": true
   },
@@ -6591,6 +6713,12 @@
   "clayworks:recipes/misc/charcoal_from_baking": {
     "criteria": {
       "has_log": "2024-12-11 01:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
     },
     "done": true
   },
@@ -7196,6 +7324,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2024-12-13 21:24:23 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_bookshelf": {
     "criteria": {
       "has_book": "2024-12-11 02:08:30 +0000"
@@ -7683,6 +7817,12 @@
     },
     "done": true
   },
+  "pyrologernfriends:doot": {
+    "criteria": {
+      "doot": "2024-12-13 21:31:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -7980,6 +8120,12 @@
   "environmental:recipes/decorations/willow_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2024-12-13 21:24:23 +0000"
     },
     "done": true
   },
@@ -8301,6 +8447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2024-12-11 02:02:19 +0000"
@@ -8424,6 +8576,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2024-12-11 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-13 21:25:47 +0000"
     },
     "done": true
   },
