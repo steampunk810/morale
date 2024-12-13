@@ -3885,6 +3885,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-13 23:09:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 18:05:49 +0000"
@@ -4045,6 +4051,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-13 23:09:05 +0000",
       "cold_desert": "2024-12-11 01:44:58 +0000",
       "orchard": "2024-12-13 21:04:49 +0000",
       "lavender_forest": "2024-12-13 21:02:52 +0000",
@@ -4053,6 +4060,7 @@
       "seasonal_orchard": "2024-12-13 19:52:03 +0000",
       "seasonal_forest": "2024-12-13 21:14:34 +0000",
       "fir_clearing": "2024-12-11 18:10:56 +0000",
+      "snowy_coniferous_forest": "2024-12-13 23:08:57 +0000",
       "tundra": "2024-12-11 01:43:39 +0000"
     },
     "done": false
@@ -4517,6 +4525,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-13 23:09:44 +0000"
     },
     "done": true
   },
@@ -6891,6 +6905,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-13 23:09:44 +0000"
     },
     "done": true
   },
