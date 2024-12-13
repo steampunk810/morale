@@ -12576,3 +12576,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 20:09:40.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moralepri23 lost connection: Disconnected
 [13Dec2024 20:09:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 left the game
 [13Dec2024 20:09:40.108] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5
+[13Dec2024 20:26:01.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f6e4089
+[13Dec2024 20:26:01.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moralepri23[/127.35.245.42:47749] logged in with entity id 13449 at (619.8595460755797, 19.0, -955.3000000119209)
+[13Dec2024 20:26:01.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to moralepri23
+[13Dec2024 20:26:01.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to moralepri23
+[13Dec2024 20:26:01.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to moralepri23
+[13Dec2024 20:26:01.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to moralepri23
+[13Dec2024 20:26:01.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to moralepri23
+[13Dec2024 20:26:01.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to moralepri23
+[13Dec2024 20:26:01.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to moralepri23
+[13Dec2024 20:26:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 joined the game
+[13Dec2024 20:26:01.332] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5
+[13Dec2024 20:26:01.363] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: moralepri23
+[13Dec2024 20:26:01.376] [Server thread/INFO] [Jade/]: Syncing config to moralepri23 (7475c504-1df9-3778-8347-56ba558987a5)
+[13Dec2024 20:26:01.389] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to moralepri23...
+[13Dec2024 20:26:01.390] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 20:26:01.391] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to moralepri23
+[13Dec2024 20:26:02.456] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to moralepri23 (7475c504-1df9-3778-8347-56ba558987a5)
