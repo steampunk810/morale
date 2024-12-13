@@ -641,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-13 20:26:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -942,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-13 20:26:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-13 20:17:36 +0000"
@@ -1083,6 +1095,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_chain": {
     "criteria": {
       "has_ingot": "2024-12-13 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-13 20:27:54 +0000"
     },
     "done": true
   },
@@ -1269,6 +1287,12 @@
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-11 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2024-12-13 20:26:43 +0000"
     },
     "done": true
   },
@@ -1821,6 +1845,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-11 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2024-12-13 20:32:30 +0000"
     },
     "done": true
   },
@@ -2586,6 +2616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-13 20:31:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/ender_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 01:49:27 +0000"
@@ -2885,12 +2921,6 @@
       "has_planks": "2024-12-11 02:01:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-13 20:24:01 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
@@ -5010,6 +5040,12 @@
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-13 19:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-13 20:31:39 +0000"
     },
     "done": true
   },
@@ -7262,6 +7298,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-12-13 20:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-13 20:26:43 +0000"
     },
     "done": true
   },
