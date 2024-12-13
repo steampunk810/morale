@@ -930,6 +930,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/matcha_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2024-12-13 21:38:42 +0000"
+    },
+    "done": true
+  },
   "idas:bearclaw_inn": {
     "criteria": {
       "in_bearclaw_inn": "2024-12-11 17:21:45 +0000"
@@ -2586,6 +2592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-13 21:38:44 +0000"
+    },
+    "done": true
+  },
   "endrem:main/old_eye": {
     "criteria": {
       "old_eye": "2024-12-13 19:42:36 +0000"
@@ -3323,6 +3335,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-12-13 20:05:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-13 21:34:16 +0000"
     },
     "done": true
   },
@@ -5601,6 +5619,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-12-13 21:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
@@ -5879,6 +5903,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/salmonberry_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2024-12-13 21:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
@@ -5942,6 +5972,12 @@
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2024-12-13 21:42:38 +0000"
     },
     "done": true
   },
@@ -6170,6 +6206,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-13 21:39:05 +0000"
     },
     "done": true
   },
@@ -6801,6 +6843,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-13 19:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-13 21:38:44 +0000"
     },
     "done": true
   },

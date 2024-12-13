@@ -12790,3 +12790,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 21:38:40.599] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
 [13Dec2024 21:38:40.599] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
 [13Dec2024 21:38:40.600] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[13Dec2024 21:38:55.928] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1043, y=63, z=-881} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 21:38:55.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-1043, y=63, z=-881}
+[13Dec2024 21:38:56.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1047, y=63, z=-880} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 21:38:56.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-1047, y=63, z=-880}
+[13Dec2024 21:38:56.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1042, y=63, z=-880} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 21:38:56.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-1042, y=63, z=-880}
+[13Dec2024 21:38:56.309] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1045, y=63, z=-876} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 21:38:56.309] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-1045, y=63, z=-876}
+[13Dec2024 21:38:56.309] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1046, y=63, z=-874} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[13Dec2024 21:38:56.309] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-1046, y=63, z=-874}
+[13Dec2024 21:42:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has completed the challenge [Desperate Measures]
+[13Dec2024 21:42:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 burned to death
+[13Dec2024 21:42:41.498] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: -856.0298357618976, Y: 62.0, Z: -1054.9234825580718
+[13Dec2024 21:42:48.331] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/34363, l='ServerLevel[world]', x=-856.03, y=63.50, z=-1054.92]
+[13Dec2024 21:42:48.332] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/34363, l='ServerLevel[world]', x=-856.03, y=63.50, z=-1054.92]
+[13Dec2024 21:44:09.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity pyrologernfriends:event_roaming_eskologers but it was marked as removed already
