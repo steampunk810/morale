@@ -12536,3 +12536,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 19:13:49.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [13Dec2024 19:14:04.319] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=13, z=4}
 [13Dec2024 19:16:00.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Hunt and Gather]
+[13Dec2024 19:16:16.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Dec2024 19:21:44.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[13Dec2024 19:25:36.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity pyrologernfriends:event_angry_mob but it was marked as removed already

@@ -702,6 +702,12 @@
     },
     "done": true
   },
+  "wares:recipes/decorations/cardboard_box": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_copper": "2024-12-11 17:56:48 +0000"
@@ -1140,6 +1146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/create.base/crafting/large_cogwheel": {
     "criteria": {
       "has_item": "2024-12-11 02:54:20 +0000"
@@ -1553,6 +1565,12 @@
       "has_copper_ingot": "2024-12-11 17:55:13 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 19:20:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
@@ -2082,6 +2100,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/environmental/pine_table": {
     "criteria": {
       "has_planks": "2024-12-11 02:01:52 +0000"
@@ -2121,6 +2145,12 @@
   "woodworks:recipes/redstone/spruce_trapdoor_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-11 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
     },
     "done": true
   },
@@ -2196,6 +2226,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -2249,6 +2285,12 @@
       "has_water_bucket": "2024-12-11 17:24:13 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 19:20:21 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
@@ -2635,6 +2677,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
@@ -3003,6 +3051,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2024-12-10 18:05:30 +0000"
@@ -3315,6 +3369,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
@@ -3623,6 +3683,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_oak_plank": "2024-12-11 01:19:02 +0000"
@@ -3911,6 +3977,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
@@ -4022,6 +4094,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/aurum_chest_boat": {
     "criteria": {
       "has_chest": "2024-12-11 17:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
     },
     "done": true
   },
@@ -4228,6 +4306,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 19:20:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-11 01:28:51 +0000"
@@ -4255,6 +4339,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
     },
     "done": true
   },
@@ -4498,6 +4588,12 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -4597,6 +4693,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-12-11 02:08:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 19:20:21 +0000"
     },
     "done": true
   },
@@ -4872,6 +4974,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2024-12-11 18:10:56 +0000"
@@ -5126,9 +5234,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
+      "has_parent_recipe": "2024-12-13 19:20:21 +0000",
       "has_items": "2024-12-11 17:28:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
@@ -5220,6 +5329,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2024-12-13 19:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 01:31:50 +0000"
@@ -5259,6 +5374,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-12-11 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-13 19:20:21 +0000"
     },
     "done": true
   },
@@ -5574,6 +5695,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 19:20:21 +0000"
+    },
+    "done": false
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
@@ -5609,6 +5736,12 @@
       "has_ingots/deorum": "2024-12-13 19:12:34 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-13 19:20:21 +0000"
+    },
+    "done": false
   },
   "woodworks:recipes/building_blocks/warped_bookshelf": {
     "criteria": {
@@ -5685,6 +5818,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2024-12-11 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-13 19:14:31 +0000"
     },
     "done": true
   },
