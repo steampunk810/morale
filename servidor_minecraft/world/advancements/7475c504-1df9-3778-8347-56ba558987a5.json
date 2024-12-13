@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-13 20:27:20 +0000"
@@ -56,6 +62,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -179,6 +197,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-13 19:54:20 +0000"
@@ -293,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/diorite_castel_tile_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
@@ -344,6 +374,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -446,6 +482,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-13 20:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -558,6 +600,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
+    },
+    "done": true
+  },
   "chalk:recipes/tools/chalk_box": {
     "criteria": {
       "has_chalk": "2024-12-11 01:22:16 +0000"
@@ -567,6 +615,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2024-12-11 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -618,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-12-11 17:49:42 +0000"
@@ -657,6 +717,12 @@
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2024-12-13 20:35:46 +0000"
     },
     "done": true
   },
@@ -777,6 +843,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/biomesoplenty/fir_counter": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -975,6 +1047,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_chair": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -1188,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:24:11 +0000"
@@ -1290,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
@@ -1332,6 +1422,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/biomesoplenty/fir_window": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/building_blocks/pine_bookshelf": {
     "criteria": {
       "has_book": "2024-12-13 19:21:10 +0000"
@@ -1341,6 +1437,12 @@
   "tetra:recipes/planks": {
     "criteria": {
       "got_wood": "2024-12-11 01:26:06 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:38:16 +0000"
     },
     "done": true
   },
@@ -1416,6 +1518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
@@ -1455,6 +1563,12 @@
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
     },
     "done": true
   },
@@ -1590,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -1722,6 +1842,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/deepslate_from_baking": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
@@ -1818,6 +1944,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
@@ -1839,6 +1971,12 @@
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_couch": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -1899,6 +2037,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 01:20:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
     },
     "done": true
   },
@@ -1977,6 +2121,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-13 19:59:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -2232,6 +2382,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_desk": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-13 20:05:32 +0000"
@@ -2325,6 +2481,12 @@
   "design_decor:recipes/design_decor/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-13 20:38:16 +0000"
     },
     "done": true
   },
@@ -2605,6 +2767,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:38:16 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2024-12-13 19:27:58 +0000"
@@ -2827,6 +2995,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -2978,6 +3152,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -3059,6 +3239,12 @@
   "enigmaticlegacy:main/root": {
     "criteria": {
       "flower": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -3156,6 +3342,12 @@
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -3261,6 +3453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:42 +0000"
@@ -3300,6 +3498,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/lens_of_veritatis": {
+    "criteria": {
+      "has_item": "2024-12-13 20:38:16 +0000"
     },
     "done": true
   },
@@ -3363,6 +3567,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
     "criteria": {
       "has_item": "2024-12-11 02:11:48 +0000"
@@ -3399,6 +3609,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -3408,6 +3624,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_shovel": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -3751,6 +3973,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -3766,6 +3994,12 @@
   "design_decor:recipes/design_decor/andesite_castel_tile_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -4009,6 +4243,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
@@ -4063,6 +4303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-11 18:11:51 +0000"
@@ -4072,6 +4318,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-11 01:54:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -4108,6 +4360,12 @@
   "design_decor:recipes/design_decor/tuff_castel_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:42:44 +0000"
     },
     "done": true
   },
@@ -4297,6 +4555,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-11 01:40:05 +0000"
@@ -4324,6 +4588,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -4387,6 +4657,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/handcrafted.main/hc/biomesoplenty/fir_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-11 01:21:07 +0000"
@@ -4402,6 +4678,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2024-12-11 01:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -4450,6 +4732,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -4570,6 +4858,12 @@
       "has_parent_recipe": "2024-12-13 19:21:09 +0000"
     },
     "done": false
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2024-12-13 20:38:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
@@ -4703,6 +4997,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_bench": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -4712,6 +5012,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2024-12-13 19:21:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -5153,6 +5459,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-13 20:05:32 +0000"
@@ -5186,6 +5498,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -5357,6 +5675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
@@ -5477,6 +5801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-13 20:03:47 +0000"
@@ -5558,6 +5888,12 @@
   "design_decor:recipes/design_decor/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -5760,6 +6096,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2024-12-13 19:21:09 +0000"
@@ -5799,6 +6141,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/fir_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
     },
     "done": true
   },
@@ -5844,6 +6192,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:24:11 +0000"
@@ -5862,6 +6216,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/biomesoplenty/fir_window_pane": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-11 02:09:48 +0000"
@@ -5877,6 +6237,12 @@
   "extendedgears:recipes/extendedgears/crafting/small_large_half_shaft_cogwheel_to_large/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
     },
     "done": true
   },
@@ -5946,6 +6312,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/handcrafted.main/hc/biomesoplenty/fir_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/diamond_blacksmith_gavel": {
     "criteria": {
       "has_gems/diamond": "2024-12-11 02:09:48 +0000"
@@ -5967,6 +6339,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-13 20:41:03 +0000"
     },
     "done": true
   },

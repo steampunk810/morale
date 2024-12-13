@@ -12599,3 +12599,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 20:32:30.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Long Gone]
 [13Dec2024 20:32:35.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Long Gone]
 [13Dec2024 20:35:46.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Nerves of Steel]
+[13Dec2024 20:41:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Vampire Slayer]
+[13Dec2024 20:42:05.669] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=8, z=13}
+[13Dec2024 20:42:05.670] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=10, z=19}
+[13Dec2024 20:42:05.670] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=10, z=24}
+[13Dec2024 20:43:50.681] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-12, z=84}
+[13Dec2024 20:43:50.682] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=-12, z=88}
+[13Dec2024 20:47:16.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Howling Blades]
+[13Dec2024 20:47:31.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Howling Blades]
