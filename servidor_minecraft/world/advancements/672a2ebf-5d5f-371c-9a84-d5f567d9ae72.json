@@ -972,6 +972,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-12-13 23:34:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 02:44:55 +0000"
@@ -1422,6 +1428,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2024-12-13 23:39:57 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
@@ -1611,6 +1623,12 @@
   "create:recipes/create.base/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2024-12-11 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-13 23:36:19 +0000"
     },
     "done": true
   },
@@ -2904,6 +2922,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-13 23:33:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-11 01:19:02 +0000"
@@ -3225,6 +3249,12 @@
   "everycomp:recipes/everycomp/hc/environmental/pine_chair": {
     "criteria": {
       "has_planks": "2024-12-11 02:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 23:40:05 +0000"
     },
     "done": true
   },
@@ -4075,6 +4105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-13 23:36:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2024-12-11 02:54:20 +0000"
@@ -4605,6 +4641,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 23:36:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:20:59 +0000"
@@ -4734,6 +4776,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-12-11 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 23:40:05 +0000"
     },
     "done": true
   },
@@ -5844,6 +5892,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-12-13 23:34:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-13 19:20:21 +0000"
@@ -6199,6 +6253,7 @@
       "minecraft:forest": "2024-12-11 01:31:45 +0000",
       "minecraft:frozen_ocean": "2024-12-13 23:31:26 +0000",
       "environmental:snowy_old_growth_pine_barrens": "2024-12-13 23:29:52 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-13 23:33:04 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 02:40:03 +0000",
       "minecraft:snowy_beach": "2024-12-13 23:30:01 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 02:39:38 +0000",
@@ -6756,6 +6811,12 @@
   "create:recipes/create.palettes/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-13 20:43:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-13 23:40:02 +0000"
     },
     "done": true
   },
@@ -8437,6 +8498,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-13 23:36:19 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 19:59:17 +0000"
@@ -8716,6 +8783,12 @@
   "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-10 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2024-12-13 23:39:57 +0000"
     },
     "done": true
   },
