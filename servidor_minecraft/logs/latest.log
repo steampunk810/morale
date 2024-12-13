@@ -12546,3 +12546,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [13Dec2024 19:29:14.249] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dominque'/215, l='ServerLevel[world]', x=613.37, y=91.00, z=-816.19] died, message: 'Dominque was slain by Zombie'
 [13Dec2024 19:29:14.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dominque'/215, l='ServerLevel[world]', x=613.37, y=91.00, z=-816.19] died: Dominque was slain by Zombie
 [13Dec2024 19:32:47.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Magnificence]
+[13Dec2024 19:36:57.453] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[13Dec2024 19:36:57.457] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Dec2024 19:36:57.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <melman810> sa
+[13Dec2024 19:39:51.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[13Dec2024 19:39:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Added melman810 to team [Silverfriends]]
+[13Dec2024 19:40:48.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Created team [los_paisajes]]
+[13Dec2024 19:41:02.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Removed melman810 from any team]
+[13Dec2024 19:41:14.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Added melman810 to team [los_paisajes]]
+[13Dec2024 19:41:20.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Added moralepri23 to team [los_paisajes]]
+[13Dec2024 19:42:34.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Swiper, No Swiping!]
+[13Dec2024 19:42:36.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Fortune Seeker]
+[13Dec2024 19:42:36.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [The Beginning of An Adventure]
+[13Dec2024 19:42:41.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Perfectly Balanced]
+[13Dec2024 19:44:01.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Fortune Seeker]
+[13Dec2024 19:44:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [The Beginning of An Adventure]
+[13Dec2024 19:46:36.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Perfectly Balanced]

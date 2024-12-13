@@ -8,8 +8,8 @@
 	properties: {
 		"ftbteams:display_name": "moralepri23"
 		"ftbteams:description": ""
-		"ftbteams:color": "#596BFF"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:color": "#59FFD8"
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 	}
 	message_history: [ ]

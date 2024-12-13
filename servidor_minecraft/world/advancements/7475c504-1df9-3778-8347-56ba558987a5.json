@@ -1,4 +1,10 @@
 {
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-12-13 19:42:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2024-12-11 01:26:06 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 19:43:21 +0000"
     },
     "done": true
   },
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_plate_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-12-11 01:21:07 +0000"
@@ -447,6 +465,12 @@
   "environmental:recipes/decorations/dirt_tile_wall_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-11 01:17:35 +0000"
+    },
+    "done": true
+  },
+  "tetra:scrolls/root": {
+    "criteria": {
+      "find": "2024-12-13 19:42:41 +0000"
     },
     "done": true
   },
@@ -1548,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -1935,6 +1965,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-12-13 19:42:36 +0000"
     },
     "done": true
   },
@@ -2480,6 +2516,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2024-12-13 19:42:36 +0000"
+    },
+    "done": true
+  },
   "thinair:recipes/thinair.main/safety_lantern": {
     "criteria": {
       "in_dangerous_air": "2024-12-11 01:29:37 +0000"
@@ -2727,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2024-12-11 01:31:12 +0000"
@@ -2841,6 +2889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-11 01:14:34 +0000"
@@ -2856,6 +2910,12 @@
   "woodworks:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2024-12-13 19:42:34 +0000"
     },
     "done": true
   },
@@ -3009,6 +3069,12 @@
   "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-13 19:21:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-13 19:43:21 +0000"
     },
     "done": true
   },
@@ -3219,6 +3285,18 @@
   "twigs:recipes/tuff/tuff_stairs": {
     "criteria": {
       "has_item": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-12-13 19:42:41 +0000"
     },
     "done": true
   },
@@ -3717,6 +3795,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 19:43:21 +0000"
     },
     "done": true
   },
@@ -4414,6 +4498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2024-12-13 19:21:10 +0000"
@@ -4739,6 +4829,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
@@ -4922,6 +5018,12 @@
   "environmental:recipes/redstone/wisteria_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
     },
     "done": true
   },
@@ -5270,6 +5372,12 @@
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2024-12-11 17:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
     },
     "done": true
   },

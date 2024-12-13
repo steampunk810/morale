@@ -2214,6 +2214,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-12-13 19:44:01 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-11 17:21:53 +0000"
@@ -2231,6 +2237,12 @@
       "has_planks": "2024-12-11 02:01:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-13 19:44:01 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
@@ -2873,6 +2885,12 @@
   "environmental:recipes/decorations/pine_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2024-12-13 19:44:01 +0000"
     },
     "done": true
   },
@@ -4044,6 +4062,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2024-12-13 19:36:17 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
@@ -4484,6 +4508,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-11 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2024-12-13 19:36:17 +0000"
     },
     "done": true
   },

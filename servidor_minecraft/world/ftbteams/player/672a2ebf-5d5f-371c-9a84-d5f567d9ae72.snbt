@@ -2,9 +2,7 @@
 	id: "672a2ebf-5d5f-371c-9a84-d5f567d9ae72"
 	type: "player"
 	player_name: "melman810"
-	ranks: {
-		672a2ebf-5d5f-371c-9a84-d5f567d9ae72: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "melman810"
 		"ftbteams:description": ""

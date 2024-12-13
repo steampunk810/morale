@@ -1,0 +1,20 @@
+{
+	id: "9f222e55-291b-4578-9fb2-acf9da4b9e38"
+	type: "party"
+	owner: "672a2ebf-5d5f-371c-9a84-d5f567d9ae72"
+	ranks: {
+		672a2ebf-5d5f-371c-9a84-d5f567d9ae72: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "los paisajes"
+		"ftbteams:description": "carritos"
+		"ftbteams:color": "#FFF659"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734118611560L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"melman810\"}]}" }
+		{ from: "672a2ebf-5d5f-371c-9a84-d5f567d9ae72", date: 1734118631421L, text: "{\"text\":\"dwadwa\"}" }
+	]
+	extra: { }
+}
