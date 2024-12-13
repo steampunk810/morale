@@ -2136,6 +2136,12 @@
     },
     "done": true
   },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-12-13 23:15:43 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
@@ -3269,6 +3275,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-11 01:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-13 23:16:32 +0000"
     },
     "done": true
   },
@@ -4642,6 +4654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-13 23:21:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-11 01:54:52 +0000"
@@ -4903,6 +4921,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-13 23:16:32 +0000"
     },
     "done": true
   },
@@ -6358,6 +6382,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-13 23:16:32 +0000"
     },
     "done": true
   },

@@ -3234,6 +3234,12 @@
     },
     "done": true
   },
+  "monobank:adventure/monobank": {
+    "criteria": {
+      "monobank_get": "2024-12-13 23:21:52 +0000"
+    },
+    "done": true
+  },
   "endrem:main/old_eye": {
     "criteria": {
       "old_eye": "2024-12-13 19:44:01 +0000"
@@ -6949,6 +6955,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-13 23:13:55 +0000",
       "apple": "2024-12-11 01:21:03 +0000",
       "bread": "2024-12-11 01:21:28 +0000",
       "golden_carrot": "2024-12-11 18:03:48 +0000"
