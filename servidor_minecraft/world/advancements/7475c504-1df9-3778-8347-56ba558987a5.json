@@ -5365,6 +5365,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2024-12-13 23:49:36 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2024-12-13 19:21:10 +0000"
