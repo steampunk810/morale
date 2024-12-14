@@ -1206,6 +1206,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2024-12-14 00:21:53 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tiles_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
@@ -5380,6 +5386,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-14 00:16:15 +0000"
     },
     "done": true
   },
