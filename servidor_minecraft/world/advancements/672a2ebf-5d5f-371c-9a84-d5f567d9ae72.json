@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/cooking/rock_candy": {
     "criteria": {
       "has_rose_quartz": "2024-12-11 02:08:04 +0000"
@@ -170,6 +176,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-11 02:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -278,6 +290,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/thin_cherry_log": {
     "criteria": {
       "has_log": "2024-12-11 17:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -509,6 +527,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-11 01:31:50 +0000"
@@ -620,6 +644,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-11 01:19:02 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -828,6 +858,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2024-12-11 17:24:06 +0000"
@@ -879,6 +915,12 @@
   "copycats:recipes/copycats.main/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2024-12-11 01:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -1266,6 +1308,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
+  },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
       "has_clock": "2024-12-13 20:27:54 +0000"
@@ -1506,6 +1554,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-11 01:28:51 +0000"
@@ -1545,6 +1599,12 @@
   "design_decor:recipes/design_decor/tuff_castel_tile_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 20:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -1680,6 +1740,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 01:20:45 +0000"
@@ -1776,6 +1842,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/consume_poseidons_breakfast": {
+    "criteria": {
+      "poseidons_breakfast": "2024-12-14 00:02:43 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/handcrafted.main/hc/environmental/pine_drawer": {
     "criteria": {
       "has_planks": "2024-12-11 02:01:52 +0000"
@@ -1785,6 +1857,12 @@
   "design_decor:recipes/design_decor/wood_support_from_planks_stonecutting": {
     "criteria": {
       "has_planks": "2024-12-11 01:19:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-14 00:02:43 +0000"
     },
     "done": true
   },
@@ -2562,6 +2640,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-13 20:11:22 +0000"
@@ -3192,6 +3276,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-14 00:02:43 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_boards_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-11 01:19:02 +0000"
@@ -3282,6 +3372,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2024-12-11 02:03:31 +0000"
@@ -3365,6 +3461,12 @@
       "has_stone_bricks": "2024-12-13 19:47:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
@@ -4051,6 +4153,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2024-12-11 02:08:30 +0000"
@@ -4229,6 +4337,13 @@
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_gold_block": "2024-12-13 21:09:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-14 00:02:39 +0000",
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
     },
     "done": true
   },
@@ -4665,6 +4780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stove": {
     "criteria": {
       "has_campfire": "2024-12-13 21:24:23 +0000"
@@ -4746,6 +4867,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -6222,6 +6349,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-10 18:04:42 +0000"
@@ -6246,11 +6379,23 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
   },
   "everycomp:recipes/everycomp/hc/environmental/pine_fancy_bed": {
     "criteria": {
@@ -6369,6 +6514,12 @@
       "has_book": "2024-12-11 02:08:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/display_board": {
     "criteria": {
@@ -6729,6 +6880,12 @@
       "has_wheat": "2024-12-11 01:27:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -7287,9 +7444,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-14 00:03:07 +0000",
       "log_spam_fixer": "2024-12-10 18:04:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
@@ -7585,6 +7743,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
       "has_painting": "2024-12-11 02:48:38 +0000"
@@ -7687,9 +7851,21 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-11 02:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -7762,6 +7938,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-11 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -8132,6 +8314,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 02:44:55 +0000"
@@ -8150,15 +8338,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:59:15 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/building_blocks/pine_vertical_slab": {
     "criteria": {
       "has_pine_planks": "2024-12-11 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -8366,6 +8572,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-10 18:04:41 +0000"
@@ -8441,6 +8653,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-13 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },
@@ -8588,6 +8806,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/onion_crate": {
     "criteria": {
       "has_onion": "2024-12-11 01:20:59 +0000"
@@ -8617,6 +8841,12 @@
       "has_iron_ingot": "2024-12-11 01:49:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:02:34 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
@@ -8789,6 +9019,12 @@
   "thinair:recipes/thinair.main/air_bladder": {
     "criteria": {
       "in_dangerous_air": "2024-12-11 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:54:57 +0000"
     },
     "done": true
   },

@@ -744,6 +744,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2024-12-11 18:11:51 +0000"
@@ -1091,6 +1097,12 @@
       "has_ingot": "2024-12-13 19:11:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
   },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
@@ -1470,6 +1482,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 17:22:42 +0000"
@@ -1566,6 +1584,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/consume_poseidons_breakfast": {
+    "criteria": {
+      "poseidons_breakfast": "2024-12-14 00:02:58 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/wood_support_from_planks_stonecutting": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
@@ -1647,6 +1671,12 @@
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/mulberry_jam_bucket_from_block": {
+    "criteria": {
+      "has_bucket": "2024-12-13 23:53:52 +0000"
     },
     "done": true
   },
@@ -2328,6 +2358,12 @@
     },
     "done": true
   },
+  "create_central_kitchen:recipes/crafting/tomato_sauce_bucket_from_bowls": {
+    "criteria": {
+      "has_bucket": "2024-12-13 23:53:52 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_couch": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
@@ -2583,6 +2619,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 17:45:51 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_chest_boat": {
+    "criteria": {
+      "has_chest": "2024-12-13 23:54:29 +0000"
     },
     "done": true
   },
@@ -2856,6 +2898,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2024-12-13 19:46:15 +0000"
@@ -2939,6 +2987,12 @@
       "has_stone_bricks": "2024-12-13 19:48:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
@@ -3653,6 +3707,13 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-14 00:03:35 +0000",
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
     },
     "done": true
   },
@@ -5071,6 +5132,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2024-12-14 00:01:43 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2024-12-11 01:14:34 +0000"
@@ -5299,6 +5366,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/aurum_chest_boat": {
+    "criteria": {
+      "has_chest": "2024-12-13 23:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-13 19:21:09 +0000"
@@ -5503,6 +5576,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/tables/birch_table": {
     "criteria": {
       "has_bamboo": "2024-12-13 21:03:31 +0000"
@@ -5592,6 +5671,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-12-13 23:53:52 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/building_blocks/dirt_tiles_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-11 01:17:35 +0000"
@@ -5633,6 +5718,12 @@
       "has_book": "2024-12-13 19:21:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/display_board": {
     "criteria": {
@@ -5946,6 +6037,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -6009,6 +6106,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/aloe_gel_bucket_from_block": {
+    "criteria": {
+      "has_bucket": "2024-12-13 23:53:52 +0000"
     },
     "done": true
   },
@@ -6275,6 +6378,12 @@
   "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/aloe_gel_bucket": {
+    "criteria": {
+      "has_bucket": "2024-12-13 23:53:52 +0000"
     },
     "done": true
   },
@@ -6626,6 +6735,12 @@
     },
     "done": true
   },
+  "create_central_kitchen:recipes/crafting/mulberry_jam_bucket": {
+    "criteria": {
+      "has_bucket": "2024-12-13 23:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-11 01:19:34 +0000"
@@ -6697,6 +6812,12 @@
       "has_wool": "2024-12-13 19:24:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
@@ -7371,6 +7492,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_chest_boat": {
+    "criteria": {
+      "has_chest": "2024-12-13 23:54:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-11 17:23:56 +0000"
@@ -7605,6 +7732,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-12-13 19:21:09 +0000"
@@ -7634,6 +7767,12 @@
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
