@@ -234,3 +234,9 @@
 [14Dec2024 00:36:23.416] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-233, y=-9, z=35}
 [14Dec2024 00:36:27.479] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
 [14Dec2024 00:36:34.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3688ms or 73 ticks behind
+[14Dec2024 00:38:50.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moralepri23 lost connection: Disconnected
+[14Dec2024 00:38:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 left the game
+[14Dec2024 00:38:50.844] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7475c504-1df9-3778-8347-56ba558987a5
+[14Dec2024 00:39:34.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: melman810 lost connection: Disconnected
+[14Dec2024 00:39:34.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 left the game
+[14Dec2024 00:39:34.800] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
