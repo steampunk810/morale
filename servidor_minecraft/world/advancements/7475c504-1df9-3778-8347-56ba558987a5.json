@@ -251,15 +251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-13 23:42:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:42:09 +0000"
     },
     "done": true
   },
@@ -744,12 +744,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
-  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2024-12-11 18:11:51 +0000"
@@ -1097,12 +1091,6 @@
       "has_ingot": "2024-12-13 19:11:56 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
   },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
@@ -1481,12 +1469,6 @@
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
     "criteria": {
@@ -1890,15 +1872,15 @@
     },
     "done": true
   },
-  "cold_sweat:huddle_close": {
-    "criteria": {
-      "requirement": "2024-12-13 23:41:33 +0000"
-    },
-    "done": true
-  },
   "clayworks:recipes/building_blocks/smooth_sandstone_from_baking": {
     "criteria": {
       "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2024-12-13 23:41:33 +0000"
     },
     "done": true
   },
@@ -2880,6 +2862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 00:06:52 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2024-12-11 01:21:07 +0000"
@@ -2897,12 +2885,6 @@
       "loot_stat": "2024-12-11 17:35:34 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
   },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
@@ -2987,12 +2969,6 @@
       "has_stone_bricks": "2024-12-13 19:48:48 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
@@ -3686,6 +3662,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2024-12-14 00:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-11 18:05:49 +0000"
@@ -3707,13 +3689,6 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-14 00:03:35 +0000",
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
     },
     "done": true
   },
@@ -4219,6 +4194,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
     "criteria": {
       "has_item": "2024-12-11 02:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 00:06:52 +0000"
     },
     "done": true
   },
@@ -5576,12 +5557,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
-  },
   "twigs:recipes/tables/birch_table": {
     "criteria": {
       "has_bamboo": "2024-12-13 21:03:31 +0000"
@@ -5718,12 +5693,6 @@
       "has_book": "2024-12-13 19:21:10 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/display_board": {
     "criteria": {
@@ -6037,12 +6006,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
-  },
   "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -6154,6 +6117,12 @@
   "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 17:58:47 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 00:05:07 +0000"
     },
     "done": true
   },
@@ -6812,12 +6781,6 @@
       "has_wool": "2024-12-13 19:24:30 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
@@ -7732,12 +7695,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
-  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-12-13 19:21:09 +0000"
@@ -7767,12 +7724,6 @@
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 00:03:34 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
