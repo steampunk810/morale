@@ -1020,6 +1020,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/warped_fence_gate_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
       "has_iron_sword": "2024-12-11 01:21:05 +0000"
@@ -1077,6 +1083,12 @@
   "idas:bearclaw_inn": {
     "criteria": {
       "in_bearclaw_inn": "2024-12-11 17:21:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_stairs_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },
@@ -2133,6 +2145,18 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-11 17:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-17 19:23:12 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_planks_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },
@@ -3307,6 +3331,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-12-17 19:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-11 02:01:03 +0000"
@@ -3944,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-17 19:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-13 23:27:48 +0000"
@@ -4275,6 +4311,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/warped_sign_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-11 01:21:22 +0000"
@@ -4469,6 +4511,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_flying_dutchman": "2024-12-17 19:21:39 +0000",
       "entered_deep_crypt": "2024-12-13 20:27:35 +0000",
       "entered_tall_witch_hut": "2024-12-13 23:23:59 +0000",
       "entered_watch_tower": "2024-12-13 21:24:00 +0000",
@@ -5025,6 +5068,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/warped_slab_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -5184,6 +5233,12 @@
   "create:recipes/create.palettes/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_door_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },
@@ -5616,6 +5671,12 @@
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },
@@ -6227,6 +6288,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/warped_button_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 17:45:51 +0000"
@@ -6392,6 +6459,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2024-12-17 19:21:39 +0000"
     },
     "done": true
   },
@@ -7189,9 +7262,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/warped_pressure_plate_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-11 01:14:34 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_boards_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },
@@ -7204,6 +7289,12 @@
   "environmental:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_trapdoor_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },
@@ -7544,6 +7635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-17 19:22:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-13 19:46:15 +0000"
@@ -7667,6 +7764,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/cherry_chest_boat": {
     "criteria": {
       "has_chest": "2024-12-13 23:54:29 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_fence_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },
@@ -8027,6 +8130,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_ladder_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-17 19:23:12 +0000"
     },
     "done": true
   },

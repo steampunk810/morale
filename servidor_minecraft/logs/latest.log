@@ -12533,3 +12533,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 19:16:36.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [17Dec2024 19:16:52.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Regine'/391, l='ServerLevel[world]', x=-2735.76, y=76.00, z=-921.50] died, message: 'Regine was shot by Subjugator'
 [17Dec2024 19:16:52.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Regine'/391, l='ServerLevel[world]', x=-2735.76, y=76.00, z=-921.50] died: Regine was shot by Subjugator
+[17Dec2024 19:17:54.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of moralepri23) moved wrongly! 0.7745735935667426
+[17Dec2024 19:17:54.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of moralepri23) moved wrongly! 1.1136036343140177
+[17Dec2024 19:17:54.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of moralepri23) moved wrongly! 1.4556832627927179
+[17Dec2024 19:17:54.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of moralepri23) moved wrongly! 1.7978187198742717
+[17Dec2024 19:17:54.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of moralepri23) moved wrongly! 2.1395786886383803
+[17Dec2024 19:18:08.405] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@34e5ea35
+[17Dec2024 19:18:08.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: melman810[/127.25.85.211:36593] logged in with entity id 3980 at (-2645.6424092570555, 63.0, -781.5948301206242)
+[17Dec2024 19:18:08.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to melman810
+[17Dec2024 19:18:08.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to melman810
+[17Dec2024 19:18:08.429] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to melman810
+[17Dec2024 19:18:08.429] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to melman810
+[17Dec2024 19:18:08.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to melman810
+[17Dec2024 19:18:08.435] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to melman810
+[17Dec2024 19:18:08.435] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to melman810
+[17Dec2024 19:18:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 joined the game
+[17Dec2024 19:18:08.688] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
+[17Dec2024 19:18:08.701] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: melman810
+[17Dec2024 19:18:08.727] [Server thread/INFO] [Jade/]: Syncing config to melman810 (672a2ebf-5d5f-371c-9a84-d5f567d9ae72)
+[17Dec2024 19:18:08.743] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to melman810...
+[17Dec2024 19:18:08.743] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 19:18:08.743] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to melman810
+[17Dec2024 19:18:09.753] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to melman810 (672a2ebf-5d5f-371c-9a84-d5f567d9ae72)
+[17Dec2024 19:21:36.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Flying in the Air]
+[17Dec2024 19:21:39.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Flying in the Air]
+[17Dec2024 19:22:29.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has completed the challenge [When the Stew is Sus]
+[17Dec2024 19:23:25.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Flying Dutchman'/173, l='ServerLevel[world]', x=-2671.50, y=188.50, z=-774.28] died: Flying Dutchman was slain by melman810
+[17Dec2024 19:27:04.875] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[17Dec2024 19:27:12.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
