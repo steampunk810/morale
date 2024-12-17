@@ -12898,3 +12898,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 21:02:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Soul of the Sea]
 [17Dec2024 21:03:13.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Soul of the Sea]
 [17Dec2024 21:08:41.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:10:38.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has reached the goal [... And Hold It]
+[17Dec2024 21:11:04.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:13:36.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:14:53.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:15:31.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:16:26.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:16:29.791] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already

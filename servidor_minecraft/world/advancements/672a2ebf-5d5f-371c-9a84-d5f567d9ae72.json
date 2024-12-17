@@ -6180,6 +6180,12 @@
     },
     "done": true
   },
+  "thinair:protection_from_red": {
+    "criteria": {
+      "protecc": "2024-12-17 21:10:38 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/redstone/pine_door": {
     "criteria": {
       "has_planks": "2024-12-11 02:01:51 +0000"
