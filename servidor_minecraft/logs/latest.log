@@ -12528,3 +12528,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 19:06:21.947] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/environmental/common/entity/animal/deer/DeerCoatTypes
 [17Dec2024 19:06:22.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [17Dec2024 19:06:31.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[17Dec2024 19:09:16.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
+[17Dec2024 19:13:20.511] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[17Dec2024 19:16:36.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[17Dec2024 19:16:52.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Regine'/391, l='ServerLevel[world]', x=-2735.76, y=76.00, z=-921.50] died, message: 'Regine was shot by Subjugator'
+[17Dec2024 19:16:52.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Regine'/391, l='ServerLevel[world]', x=-2735.76, y=76.00, z=-921.50] died: Regine was shot by Subjugator
