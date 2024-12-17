@@ -12614,3 +12614,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 19:44:53.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [17Dec2024 19:44:53.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5967ms or 119 ticks behind
 [17Dec2024 19:58:08.506] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ba34942
+[17Dec2024 20:06:06.545] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-261, y=-12, z=79}
+[17Dec2024 20:06:15.974] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
+[17Dec2024 20:06:15.975] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting baguchan/revampedwolf/api/WolfTypes
+[17Dec2024 20:06:16.507] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+[17Dec2024 20:06:40.684] [Worker-Main-13/WARN] [net.minecraft.world.level.BaseSpawner/]: Invalid SpawnPotentials list: No key weight in MapLike[{Entity:{id:"pyrologernfriends:vampire"},Weight:1}]; No key data in MapLike[{Entity:{id:"pyrologernfriends:vampire"},Weight:1}]
+[17Dec2024 20:06:40.685] [Worker-Main-13/WARN] [net.minecraft.world.level.BaseSpawner/]: Invalid SpawnData: No key entity in MapLike[{id:"pyrologernfriends:vampire"}]
+[17Dec2024 20:06:40.713] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=17, z=-89}
+[17Dec2024 20:06:40.715] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-256, y=30, z=-93}
+[17Dec2024 20:06:40.715] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=30, z=-90}
+[17Dec2024 20:07:30.617] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3760, y=47, z=-714} but found not block entity block Block{minecraft:water}[level=8] at location
+[17Dec2024 20:07:30.617] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-3760, y=47, z=-714}
