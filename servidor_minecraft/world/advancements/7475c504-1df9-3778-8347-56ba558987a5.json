@@ -4665,6 +4665,12 @@
     },
     "done": true
   },
+  "cold_sweat:get_soul_lamp": {
+    "criteria": {
+      "requirement": "2024-12-17 21:03:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/bamboo_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-17 19:38:47 +0000"
