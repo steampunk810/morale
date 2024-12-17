@@ -12828,3 +12828,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 20:27:06.549] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting se/mickelus/tetra/blocks/forged/hammer/HammerEffect
 [17Dec2024 20:27:17.069] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/schematics/cannon/SchematicannonBlockEntity$State
 [17Dec2024 20:27:17.073] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/schematics/SchematicPrinter$PrintStage
+[17Dec2024 20:28:57.341] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:29:36.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:29:36.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[17Dec2024 20:29:37.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:29:41.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:29:51.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Ahoy Captain]
+[17Dec2024 20:29:51.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:29:52.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Ahoy Captain]
+[17Dec2024 20:29:59.241] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5064, y=13, z=-768} but found not block entity block Block{minecraft:water}[level=1] at location
+[17Dec2024 20:29:59.242] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-5064, y=13, z=-768}
+[17Dec2024 20:30:03.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5335, y=64, z=-1116} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[17Dec2024 20:30:03.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-5335, y=64, z=-1116}
+[17Dec2024 20:30:09.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:30:13.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:31:03.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 20:32:11.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has completed the challenge [Grimoire of Evokation]
+[17Dec2024 20:33:10.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Magery]
+[17Dec2024 20:33:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has completed the challenge [Grimoire of Evokation]
+[17Dec2024 20:34:08.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Magery]
+[17Dec2024 20:36:51.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:51.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:51.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:51.702] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:51.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:51.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.004] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.105] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.404] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:36:52.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Dec2024 20:37:56.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already

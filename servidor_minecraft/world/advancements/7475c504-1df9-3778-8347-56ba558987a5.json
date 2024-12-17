@@ -828,6 +828,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2024-12-17 20:31:28 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2024-12-11 18:11:51 +0000"
@@ -4262,6 +4268,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-17 19:15:12 +0000"
@@ -4848,6 +4860,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_flying_dutchman": "2024-12-17 19:21:39 +0000",
+      "entered_pirate_ship": "2024-12-17 20:29:51 +0000",
       "entered_deep_crypt": "2024-12-13 20:27:35 +0000",
       "entered_tall_witch_hut": "2024-12-13 23:23:59 +0000",
       "entered_watch_tower": "2024-12-13 21:24:00 +0000",
@@ -6686,6 +6699,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2024-12-17 20:32:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -7447,6 +7466,12 @@
   "create_central_kitchen:recipes/crafting/mulberry_jam_bucket": {
     "criteria": {
       "has_bucket": "2024-12-13 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2024-12-17 20:29:51 +0000"
     },
     "done": true
   },
