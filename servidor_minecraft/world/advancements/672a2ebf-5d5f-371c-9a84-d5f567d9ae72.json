@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-10 18:04:42 +0000"
@@ -986,6 +992,12 @@
   "woodworks:recipes/redstone/spruce_fence_gate_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-11 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
     },
     "done": true
   },
@@ -3465,6 +3477,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2024-12-17 23:01:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_sheet": "2024-12-11 01:31:50 +0000"
@@ -4143,6 +4161,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-11 17:19:56 +0000"
@@ -4593,6 +4617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-11 01:19:02 +0000"
@@ -4791,6 +4821,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2024-12-17 23:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-13 23:54:57 +0000"
@@ -4860,6 +4896,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_1": {
     "criteria": {
       "has_oak_plank": "2024-12-11 01:19:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
     },
     "done": true
   },
@@ -7002,6 +7044,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-11 01:28:51 +0000"
@@ -7314,6 +7362,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:get_soul_lamp": {
     "criteria": {
       "requirement": "2024-12-17 21:02:49 +0000"
@@ -7455,6 +7509,12 @@
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_gunpowder": "2024-12-11 02:08:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
     },
     "done": true
   },
@@ -8049,6 +8109,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_barrel": {
     "criteria": {
       "has_dark_oak_plank": "2024-12-13 23:54:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-17 23:01:30 +0000"
     },
     "done": true
   },
@@ -9027,6 +9093,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 01:31:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2024-12-17 23:09:15 +0000"
     },
     "done": true
   },
