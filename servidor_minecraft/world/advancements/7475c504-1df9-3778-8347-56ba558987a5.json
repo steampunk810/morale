@@ -1206,6 +1206,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2024-12-17 21:40:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:21:24 +0000"
@@ -7136,6 +7142,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_glass": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:11:56 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/astral_dust": {
+    "criteria": {
+      "has_item": "2024-12-17 21:40:10 +0000"
     },
     "done": true
   },
