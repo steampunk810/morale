@@ -2982,6 +2982,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "generic_revelation": "2024-12-17 21:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 19:59:17 +0000"

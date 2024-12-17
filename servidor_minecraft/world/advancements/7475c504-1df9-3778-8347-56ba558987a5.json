@@ -774,6 +774,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/relics/ocean_stone": {
+    "criteria": {
+      "has_items": "2024-12-17 21:36:10 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2024-12-11 01:26:43 +0000"
@@ -5420,6 +5426,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone3": "2024-12-17 21:36:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-13 23:36:31 +0000"
@@ -7421,6 +7433,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2024-12-17 21:36:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-12-13 21:13:22 +0000"
@@ -8435,6 +8453,12 @@
       "has_redstone": "2024-12-13 20:05:32 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_3": "2024-12-17 21:36:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
