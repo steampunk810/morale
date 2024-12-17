@@ -12935,3 +12935,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 22:04:17.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
 [17Dec2024 22:08:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Perfect Instance]
 [17Dec2024 22:10:02.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 22:10:37.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 22:10:57.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 22:11:21.640] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/64717, l='ServerLevel[world]', x=-4796.50, y=60.00, z=-963.50]
+[17Dec2024 22:11:35.572] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=53, z=47}
+[17Dec2024 22:11:35.573] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=106, y=52, z=45}
+[17Dec2024 22:11:35.574] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=103, y=51, z=45}
+[17Dec2024 22:11:51.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Mine? Mine? Mine?]
+[17Dec2024 22:12:46.069] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
+[17Dec2024 22:14:40.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[17Dec2024 22:17:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Removed every effect from melman810]
+[17Dec2024 22:17:05.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Removed every effect from moralepri23]
+[17Dec2024 22:19:35.183] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
+[17Dec2024 22:19:35.184] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'

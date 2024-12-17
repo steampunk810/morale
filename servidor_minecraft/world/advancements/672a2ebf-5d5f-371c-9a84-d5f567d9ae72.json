@@ -2279,6 +2279,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-17 22:13:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-12-11 02:21:37 +0000"
@@ -2813,6 +2819,7 @@
       "redwood_forest": "2024-12-17 19:18:58 +0000",
       "cherry_blossom_grove": "2024-12-17 19:34:15 +0000",
       "seasonal_orchard": "2024-12-13 19:54:14 +0000",
+      "seasonal_forest": "2024-12-17 22:11:43 +0000",
       "fir_clearing": "2024-12-11 18:10:08 +0000",
       "grassland": "2024-12-17 20:06:39 +0000",
       "snowy_coniferous_forest": "2024-12-13 23:08:28 +0000",
@@ -3419,6 +3426,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-10 18:04:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-17 22:11:51 +0000"
     },
     "done": true
   },
@@ -7049,6 +7062,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2024-12-17 22:13:34 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2024-12-11 01:24:13 +0000"
@@ -8312,6 +8331,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2024-12-11 17:55:13 +0000"
+    },
+    "done": true
+  },
+  "wares:recipes/decorations/delivery_table": {
+    "criteria": {
+      "has_feather": "2024-12-17 22:13:34 +0000"
     },
     "done": true
   },
