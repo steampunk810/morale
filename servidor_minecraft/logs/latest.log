@@ -12948,3 +12948,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 22:17:05.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Removed every effect from moralepri23]
 [17Dec2024 22:19:35.183] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
 [17Dec2024 22:19:35.184] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'dungeons_libraries:ranged_damage_multiplier'
+[17Dec2024 22:27:46.961] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures

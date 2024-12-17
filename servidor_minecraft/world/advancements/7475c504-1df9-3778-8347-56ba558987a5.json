@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
@@ -653,6 +659,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2024-12-17 22:22:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
@@ -692,6 +704,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-12-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -984,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -1170,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-11 01:34:18 +0000"
@@ -1185,6 +1215,12 @@
   "delightful:recipes/food/matcha_ice_cream_no_neapolitan": {
     "criteria": {
       "has_ice": "2024-12-13 21:38:42 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/smithing/netherite_opal_knife": {
+    "criteria": {
+      "has_ingots/netherite": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -1260,6 +1296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -1269,6 +1311,12 @@
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/smithing/obsidian_blacksmith_gavel": {
+    "criteria": {
+      "has_item": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -1458,6 +1506,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2024-12-17 22:25:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -1539,6 +1593,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-11 01:26:06 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/netherite_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -1713,6 +1773,12 @@
   "cgm:recipes/cgm/missile": {
     "criteria": {
       "has_gunpowder": "2024-12-11 17:17:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -1929,6 +1995,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -2448,6 +2520,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
@@ -2607,6 +2685,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_leggings": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:11:56 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_milk": {
+    "criteria": {
+      "has_nuts": "2024-12-17 22:25:41 +0000"
     },
     "done": true
   },
@@ -3492,6 +3576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/twisted_heart": {
     "criteria": {
       "has_items": "2024-12-17 21:51:09 +0000"
@@ -3537,6 +3627,18 @@
   "enigmaticlegacy:main/lore_inscriber": {
     "criteria": {
       "etherium": "2024-12-13 19:57:16 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2024-12-17 22:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-17 22:25:54 +0000"
     },
     "done": true
   },
@@ -3616,6 +3718,12 @@
   "woodworks:recipes/building_blocks/mangrove_bookshelf": {
     "criteria": {
       "has_book": "2024-12-13 19:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -3967,6 +4075,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2024-12-13 19:21:10 +0000"
@@ -4124,6 +4238,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-17 22:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-11 18:05:49 +0000"
@@ -4247,6 +4367,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2024-12-17 22:25:54 +0000"
     },
     "done": true
   },
@@ -4683,6 +4809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/warped_sign_from_warped_stems_sawing": {
     "criteria": {
       "has_warped_stems": "2024-12-17 19:23:12 +0000"
@@ -5088,6 +5220,7 @@
       "seasonal_forest": "2024-12-13 21:14:34 +0000",
       "lavender_field": "2024-12-17 19:13:53 +0000",
       "fir_clearing": "2024-12-11 18:10:56 +0000",
+      "grassland": "2024-12-17 22:21:02 +0000",
       "snowy_coniferous_forest": "2024-12-13 23:08:57 +0000",
       "snowy_fir_clearing": "2024-12-13 23:29:41 +0000",
       "tundra": "2024-12-11 01:43:39 +0000"
@@ -5481,6 +5614,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:37:36 +0000"
@@ -5490,6 +5629,12 @@
   "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -6790,6 +6935,12 @@
     },
     "done": true
   },
+  "wares:recipes/decorations/delivery_table": {
+    "criteria": {
+      "has_feather": "2024-12-17 22:25:54 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/biomesoplenty/redwood_chair": {
     "criteria": {
       "has_planks": "2024-12-17 19:09:31 +0000"
@@ -7062,7 +7213,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2024-12-11 01:21:08 +0000"
+      "has_parent_recipe": "2024-12-11 01:21:08 +0000",
+      "has_items2": "2024-12-17 22:22:14 +0000"
     },
     "done": false
   },
@@ -7227,6 +7379,12 @@
   "design_decor:recipes/design_decor/metal_plate_wall_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -7509,6 +7667,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/old_netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -7842,6 +8006,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -8048,7 +8218,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2024-12-11 01:14:34 +0000"
+      "has_parent_recipe": "2024-12-11 01:14:34 +0000",
+      "has_items3": "2024-12-17 22:22:14 +0000"
     },
     "done": false
   },
@@ -8158,6 +8329,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
     "criteria": {
       "has_item": "2024-12-13 19:26:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
@@ -8491,6 +8668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/c/biomesoplenty/cherry_window_pane": {
     "criteria": {
       "has_planks": "2024-12-17 19:37:40 +0000"
@@ -8665,6 +8848,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2024-12-17 22:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-13 19:54:20 +0000"
@@ -8763,7 +8952,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_parent_recipe": "2024-12-13 19:21:09 +0000"
+      "has_parent_recipe": "2024-12-13 19:21:09 +0000",
+      "has_items2": "2024-12-17 22:22:14 +0000"
     },
     "done": false
   },
@@ -8884,6 +9074,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-17 22:22:14 +0000"
     },
     "done": true
   },
