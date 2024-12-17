@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-17 22:32:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2024-12-11 17:55:13 +0000"
@@ -4641,6 +4647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-17 22:32:07 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-10 18:04:42 +0000"
@@ -7665,6 +7677,12 @@
   "design_decor:recipes/design_decor/metal_sheet_wall_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-12-11 01:49:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-17 22:32:07 +0000"
     },
     "done": true
   },
