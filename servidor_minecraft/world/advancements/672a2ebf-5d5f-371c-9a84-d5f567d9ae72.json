@@ -845,6 +845,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 21:54:10 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:18:23 +0000"
@@ -2556,6 +2562,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2024-12-17 21:53:46 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/bamboo_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-17 19:37:06 +0000"
@@ -2930,6 +2942,7 @@
       "minecraft:spider": "2024-12-11 01:33:40 +0000",
       "minecraft:creeper": "2024-12-13 19:25:54 +0000",
       "minecraft:evoker": "2024-12-17 20:32:08 +0000",
+      "minecraft:phantom": "2024-12-17 21:58:00 +0000",
       "minecraft:cave_spider": "2024-12-11 17:39:04 +0000",
       "quark:wraith": "2024-12-17 20:05:36 +0000",
       "minecraft:enderman": "2024-12-13 20:02:12 +0000",
@@ -3225,6 +3238,12 @@
   "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
     "criteria": {
       "has_resource": "2024-12-13 21:20:33 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2024-12-17 21:53:46 +0000"
     },
     "done": true
   },
@@ -3618,6 +3637,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2024-12-17 21:54:10 +0000"
+    },
+    "done": true
+  },
   "thinair:recipes/thinair.main/respirator": {
     "criteria": {
       "in_dangerous_air": "2024-12-11 01:30:20 +0000"
@@ -3891,6 +3916,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-11 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2024-12-17 21:54:10 +0000"
     },
     "done": true
   },
@@ -6613,6 +6644,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2024-12-17 21:54:10 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 01:20:59 +0000"
@@ -9024,6 +9061,12 @@
   "design_decor:recipes/design_decor/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-17 21:58:04 +0000"
     },
     "done": true
   },

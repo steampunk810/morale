@@ -12915,3 +12915,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 21:40:01.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has reached the goal [Heart Of The Storm]
 [17Dec2024 21:40:04.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has reached the goal [Heart Of The Storm]
 [17Dec2024 21:47:02.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:50:00.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5285, y=-24, z=-874} BlockPos{x=-5285, y=-26, z=-873}
+[17Dec2024 21:50:00.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5285, y=-24, z=-874} BlockPos{x=-5285, y=-26, z=-873}
+[17Dec2024 21:50:00.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5285, y=-24, z=-874} BlockPos{x=-5285, y=-26, z=-873}
+[17Dec2024 21:53:14.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5279, y=65, z=-886} BlockPos{x=-5281, y=65, z=-886}
+[17Dec2024 21:53:46.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [Perfect Instance]
+[17Dec2024 21:55:40.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 21:57:51.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[17Dec2024 21:59:25.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/obscuria/obscureapi/api/utils/Icons

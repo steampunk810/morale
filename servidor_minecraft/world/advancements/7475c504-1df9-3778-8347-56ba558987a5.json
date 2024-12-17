@@ -1716,6 +1716,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 21:51:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-11 01:24:11 +0000"
@@ -3473,6 +3479,12 @@
       "has_stone_bricks": "2024-12-13 19:48:49 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2024-12-17 21:51:09 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
@@ -6795,6 +6807,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2024-12-17 21:51:09 +0000"
+    },
+    "done": true
+  },
   "thinair:recipes/thinair.main/respirator": {
     "criteria": {
       "in_dangerous_air": "2024-12-11 01:29:37 +0000"
@@ -7388,6 +7406,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/redwood_side_table": {
     "criteria": {
       "has_planks": "2024-12-17 19:09:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2024-12-17 21:51:09 +0000"
     },
     "done": true
   },
