@@ -3913,6 +3913,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/consume_sea_stew": {
+    "criteria": {
+      "sea_stew": "2024-12-17 20:08:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-11 01:19:02 +0000"
@@ -5293,6 +5299,7 @@
       "cherry_blossom_grove": "2024-12-17 19:34:15 +0000",
       "seasonal_orchard": "2024-12-13 19:54:14 +0000",
       "fir_clearing": "2024-12-11 18:10:08 +0000",
+      "grassland": "2024-12-17 20:06:39 +0000",
       "snowy_coniferous_forest": "2024-12-13 23:08:28 +0000",
       "snowy_fir_clearing": "2024-12-13 23:29:42 +0000",
       "tundra": "2024-12-11 01:45:00 +0000"
@@ -5553,6 +5560,7 @@
       "minecraft:spider": "2024-12-11 01:33:40 +0000",
       "minecraft:creeper": "2024-12-13 19:25:54 +0000",
       "minecraft:cave_spider": "2024-12-11 17:39:04 +0000",
+      "quark:wraith": "2024-12-17 20:05:36 +0000",
       "minecraft:enderman": "2024-12-13 20:02:12 +0000",
       "minecraft:silverfish": "2024-12-13 21:30:05 +0000",
       "minecraft:zombie": "2024-12-11 01:34:54 +0000",
@@ -6484,10 +6492,12 @@
       "minecraft:frozen_ocean": "2024-12-13 23:31:26 +0000",
       "environmental:snowy_old_growth_pine_barrens": "2024-12-13 23:29:52 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-13 23:33:04 +0000",
+      "minecraft:windswept_forest": "2024-12-17 20:09:11 +0000",
       "minecraft:ocean": "2024-12-14 00:35:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 02:40:03 +0000",
       "minecraft:snowy_beach": "2024-12-13 23:30:01 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 02:39:38 +0000",
+      "atmospheric:laurel_forest": "2024-12-17 20:08:45 +0000",
       "minecraft:meadow": "2024-12-10 18:04:43 +0000",
       "minecraft:plains": "2024-12-10 18:05:13 +0000"
     },
@@ -9058,6 +9068,12 @@
   "environmental:recipes/food/cooked_venison_from_campfire_cooking": {
     "criteria": {
       "has_venison": "2024-12-13 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-17 20:11:04 +0000"
     },
     "done": true
   },
