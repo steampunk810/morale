@@ -1596,6 +1596,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 19:25:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-11 02:03:31 +0000"
@@ -6230,6 +6236,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 19:25:27 +0000"
+    },
+    "done": true
+  },
   "farmersrespite:recipes/farmersrespite/brewing/purulent_tea": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 02:08:06 +0000"
@@ -6667,6 +6679,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-13 20:17:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-17 19:32:33 +0000"
     },
     "done": true
   },

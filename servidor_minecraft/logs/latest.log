@@ -12561,3 +12561,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 19:23:25.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Flying Dutchman'/173, l='ServerLevel[world]', x=-2671.50, y=188.50, z=-774.28] died: Flying Dutchman was slain by melman810
 [17Dec2024 19:27:04.875] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [17Dec2024 19:27:12.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[17Dec2024 19:37:06.636] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
