@@ -7150,6 +7150,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/grass_thatch": {
+    "criteria": {
+      "has_grass": "2024-12-17 23:26:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
@@ -9175,6 +9181,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/diamond_blacksmith_gavel": {
     "criteria": {
       "has_gems/diamond": "2024-12-11 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_leaf_pile": {
+    "criteria": {
+      "has_oak_leaves": "2024-12-17 23:26:32 +0000"
     },
     "done": true
   },

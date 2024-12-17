@@ -12961,3 +12961,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 23:08:44.433] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/GlobeBlockTile$GlobeModel
 [17Dec2024 23:09:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [You Spin Me Right Round Baby]
 [17Dec2024 23:09:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 has made the advancement [You Spin Me Right Round Baby]
+[17Dec2024 23:26:33.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3537, y=66, z=-910} BlockPos{x=-3535, y=64, z=-908}
+[17Dec2024 23:26:41.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3547, y=65, z=-912} BlockPos{x=-3547, y=64, z=-911}
+[17Dec2024 23:26:41.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3547, y=65, z=-912} BlockPos{x=-3547, y=64, z=-911}
+[17Dec2024 23:26:41.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3547, y=65, z=-912} BlockPos{x=-3547, y=64, z=-911}
+[17Dec2024 23:26:41.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3548, y=66, z=-911} BlockPos{x=-3550, y=64, z=-912}
+[17Dec2024 23:26:41.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3548, y=66, z=-911} BlockPos{x=-3550, y=64, z=-912}
