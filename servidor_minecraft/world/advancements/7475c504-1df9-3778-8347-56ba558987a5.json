@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2024-12-11 18:12:05 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-11 01:48:59 +0000"
@@ -146,6 +158,18 @@
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-13 23:42:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/fence_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -224,6 +248,12 @@
   "atmospheric:recipes/decorations/golden_dragon_fruit_crate": {
     "criteria": {
       "has_golden_dragon_fruit": "2024-12-11 01:31:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/atmospheric/laurel_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -380,6 +410,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-11 17:45:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -665,6 +701,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-17 20:19:41 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
     "criteria": {
       "has_item": "2024-12-11 02:11:48 +0000"
@@ -765,6 +807,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-13 20:58:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_bench": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -876,6 +924,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-12-11 17:49:42 +0000"
@@ -891,6 +945,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/c/atmospheric/laurel_window": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -1116,6 +1176,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "idas:bearclaw_inn": {
     "criteria": {
       "in_bearclaw_inn": "2024-12-11 17:21:45 +0000"
@@ -1296,6 +1362,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2024-12-11 17:17:07 +0000"
@@ -1371,6 +1443,12 @@
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -1461,6 +1539,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -1848,6 +1932,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -1887,6 +1977,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_side_table": {
     "criteria": {
       "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -1965,6 +2061,12 @@
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2024-12-13 20:32:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -2142,6 +2244,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/building_blocks/dirt_brick_vertical_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-11 01:17:35 +0000"
@@ -2199,6 +2307,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-11 17:46:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -2388,6 +2502,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_couch": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
@@ -2409,6 +2529,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -2574,6 +2700,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/miners_delight/copper_pot": {
+    "criteria": {
+      "has_copper": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:08 +0000"
@@ -2643,6 +2775,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-11 17:45:51 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/miners_delight/copper_cup": {
+    "criteria": {
+      "has_copper": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -3174,6 +3312,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2024-12-13 19:21:09 +0000"
@@ -3201,6 +3345,12 @@
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-13 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -3258,6 +3408,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/fd/atmospheric/laurel_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2024-12-11 02:08:29 +0000"
@@ -3267,6 +3423,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/sanity_meter": {
     "criteria": {
       "has_item": "2024-12-11 17:22:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -3306,6 +3468,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/handcrafted.main/hc/atmospheric/laurel_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
@@ -3318,6 +3486,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-17 20:19:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-12-11 01:31:12 +0000"
@@ -3327,6 +3501,12 @@
   "twigs:recipes/tuff/polished_tuff_stonecutting": {
     "criteria": {
       "has_item": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_chair": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -3553,6 +3733,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
@@ -3568,6 +3754,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-13 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -3772,6 +3964,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-13 23:36:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -3989,6 +4187,12 @@
   "woodworks:recipes/redstone/spruce_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -4251,6 +4455,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 20:38:02 +0000"
@@ -4296,6 +4506,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_dining_bench": {
     "criteria": {
       "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_desk": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -4467,6 +4683,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/atmospheric/laurel_window_pane": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
@@ -4494,6 +4716,12 @@
   "twigs:recipes/rhyolite/polished_rhyolite": {
     "criteria": {
       "has_item": "2024-12-13 20:42:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -4804,6 +5032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-17 20:19:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-11 17:31:27 +0000"
@@ -5038,6 +5272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-11 02:04:27 +0000",
@@ -5200,6 +5440,12 @@
   "design_decor:recipes/design_decor/diorite_castel_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/has_copper_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -5416,6 +5662,18 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -5773,6 +6031,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-17 20:19:41 +0000"
+    },
+    "done": true
+  },
   "immersiveposts:recipes/immersiveposts/fence_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -5815,6 +6079,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-13 23:42:09 +0000"
@@ -5836,6 +6106,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/redwood_bench": {
     "criteria": {
       "has_planks": "2024-12-17 19:09:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/atmospheric/laurel_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -5922,6 +6198,7 @@
       "minecraft:ocean": "2024-12-13 21:04:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 17:18:09 +0000",
       "minecraft:snowy_beach": "2024-12-13 23:30:15 +0000",
+      "minecraft:windswept_savanna": "2024-12-17 20:22:29 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-17 19:42:15 +0000",
       "atmospheric:laurel_forest": "2024-12-17 20:08:41 +0000",
       "minecraft:meadow": "2024-12-11 01:15:18 +0000",
@@ -6091,6 +6368,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-17 20:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
@@ -6178,6 +6461,12 @@
   "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -6376,6 +6665,12 @@
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-12-11 17:45:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -6903,6 +7198,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -7146,6 +7447,18 @@
   "create_central_kitchen:recipes/crafting/mulberry_jam_bucket": {
     "criteria": {
       "has_bucket": "2024-12-13 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
@@ -7609,6 +7922,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
     },
     "done": true
   },
@@ -8254,6 +8573,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/atmospheric/laurel_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-12-13 19:21:09 +0000"
@@ -8416,6 +8747,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "thinair:recipes/thinair.main/air_bladder": {
     "criteria": {
       "in_dangerous_air": "2024-12-11 01:29:37 +0000"
@@ -8458,9 +8795,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-13 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/atmospheric/laurel_counter": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:21:50 +0000"
     },
     "done": true
   },
