@@ -12967,3 +12967,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 23:26:41.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3547, y=65, z=-912} BlockPos{x=-3547, y=64, z=-911}
 [17Dec2024 23:26:41.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3548, y=66, z=-911} BlockPos{x=-3550, y=64, z=-912}
 [17Dec2024 23:26:41.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3548, y=66, z=-911} BlockPos{x=-3550, y=64, z=-912}
+[17Dec2024 23:41:59.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: melman810 lost connection: Disconnected
+[17Dec2024 23:41:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 left the game
+[17Dec2024 23:41:59.713] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
+[17Dec2024 23:46:40.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by Dissident
+[17Dec2024 23:46:40.650] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: -3536.6725219101077, Y: 65.0, Z: -933.167712044759
