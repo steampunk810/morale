@@ -2123,6 +2123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2024-12-17 21:28:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-13 20:43:01 +0000"
@@ -2929,6 +2935,7 @@
       "minecraft:enderman": "2024-12-13 20:02:12 +0000",
       "minecraft:silverfish": "2024-12-13 21:30:05 +0000",
       "minecraft:zombie": "2024-12-11 01:34:54 +0000",
+      "minecraft:drowned": "2024-12-17 21:26:45 +0000",
       "minecraft:zombie_villager": "2024-12-11 01:40:16 +0000"
     },
     "done": false
@@ -3815,6 +3822,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-17 21:29:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2024-12-11 01:27:37 +0000"
@@ -4436,6 +4449,12 @@
   "woodworks:recipes/building_blocks/spruce_boards_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-11 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2024-12-17 21:28:45 +0000"
     },
     "done": true
   },
@@ -5604,6 +5623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/miners_delight/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2024-12-17 21:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-13 21:25:47 +0000"
@@ -5817,6 +5842,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_chestplate": {
     "criteria": {
       "has_ingots/deorum": "2024-12-13 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2024-12-17 21:28:09 +0000"
     },
     "done": true
   },
