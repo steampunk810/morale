@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-17 22:40:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-13 19:24:30 +0000"
@@ -1047,6 +1053,12 @@
   "environmental:recipes/building_blocks/dirt_brick_stairs_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-12-11 01:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-17 22:41:28 +0000"
     },
     "done": true
   },
@@ -2082,6 +2094,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-17 22:41:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_side_table": {
     "criteria": {
       "has_planks": "2024-12-17 19:37:40 +0000"
@@ -2835,6 +2853,12 @@
   "miners_delight:recipes/miners_delight/copper_pot": {
     "criteria": {
       "has_copper": "2024-12-17 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-17 22:41:28 +0000"
     },
     "done": true
   },
@@ -4265,6 +4289,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-13 19:24:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-17 22:41:28 +0000"
     },
     "done": true
   },
@@ -5743,6 +5773,12 @@
   "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-17 22:41:28 +0000"
     },
     "done": true
   },
