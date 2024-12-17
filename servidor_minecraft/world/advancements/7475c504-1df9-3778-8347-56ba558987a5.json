@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-17 19:40:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -563,6 +569,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 19:38:47 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-11 01:26:06 +0000"
@@ -798,6 +810,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2024-12-11 01:41:17 +0000"
@@ -813,6 +831,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-12-11 01:21:05 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_bench": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -1770,6 +1794,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-14 00:37:56 +0000"
@@ -1839,6 +1869,12 @@
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -2040,6 +2076,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/biomesoplenty/cherry_window": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/andesite_castel_tile_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
@@ -2205,6 +2247,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -2556,6 +2604,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -2892,6 +2946,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_cherry_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_desk": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
@@ -3174,6 +3234,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/bamboo_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 19:38:47 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/tuff_castel_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
@@ -3189,6 +3255,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/sanity_meter": {
     "criteria": {
       "has_item": "2024-12-11 17:22:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -4209,6 +4281,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-13 23:42:09 +0000"
@@ -4260,6 +4338,12 @@
   "clayworks:recipes/building_blocks/cracked_stone_bricks_from_baking": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 19:48:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -4335,6 +4419,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/bamboo_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 19:38:47 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
     "criteria": {
       "has_item": "2024-12-11 02:11:48 +0000"
@@ -4368,6 +4458,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/biomesoplenty/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -4666,6 +4762,7 @@
       "coniferous_forest": "2024-12-11 18:11:06 +0000",
       "spider_nest": "2024-12-13 20:51:56 +0000",
       "redwood_forest": "2024-12-17 19:06:28 +0000",
+      "cherry_blossom_grove": "2024-12-17 19:36:29 +0000",
       "seasonal_orchard": "2024-12-13 19:52:03 +0000",
       "seasonal_forest": "2024-12-13 21:14:34 +0000",
       "lavender_field": "2024-12-17 19:13:53 +0000",
@@ -5542,6 +5639,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_desk": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-13 19:21:09 +0000"
@@ -5788,6 +5891,7 @@
       "minecraft:taiga": "2024-12-11 01:52:09 +0000",
       "minecraft:deep_ocean": "2024-12-14 00:35:02 +0000",
       "minecraft:frozen_river": "2024-12-13 21:17:08 +0000",
+      "minecraft:beach": "2024-12-17 19:42:04 +0000",
       "minecraft:river": "2024-12-11 01:17:55 +0000",
       "minecraft:snowy_plains": "2024-12-11 01:22:46 +0000",
       "minecraft:stony_shore": "2024-12-11 01:44:52 +0000",
@@ -5803,6 +5907,7 @@
       "minecraft:ocean": "2024-12-13 21:04:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 17:18:09 +0000",
       "minecraft:snowy_beach": "2024-12-13 23:30:15 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-17 19:42:15 +0000",
       "minecraft:meadow": "2024-12-11 01:15:18 +0000",
       "minecraft:plains": "2024-12-11 01:14:35 +0000"
     },
@@ -5823,6 +5928,12 @@
   "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:45:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -5988,6 +6099,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_chair": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-11 02:09:48 +0000"
@@ -6078,6 +6195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 19:38:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/frozen_bench": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:21:07 +0000"
@@ -6093,6 +6216,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/fir_bench": {
     "criteria": {
       "has_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -6144,6 +6273,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "immersiveposts:recipes/immersiveposts/has_gold_rod": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 17:22:42 +0000"
@@ -6177,6 +6312,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2024-12-13 21:03:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 19:37:29 +0000"
     },
     "done": true
   },
@@ -6243,6 +6384,12 @@
   "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -6522,6 +6669,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/arcane_scrolls": {
     "criteria": {
       "has_the_recipe": "2024-12-13 19:21:09 +0000"
@@ -6573,6 +6726,12 @@
   "aether_redux:recipes/transportation/glacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-13 23:32:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -6641,6 +6800,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -6920,6 +7085,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2024-12-17 19:38:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-11 17:15:48 +0000"
@@ -6983,6 +7154,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_couch": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -7298,6 +7475,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/handcrafted.main/hc/biomesoplenty/cherry_counter": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-11 02:09:48 +0000"
@@ -7313,6 +7496,12 @@
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_fir_planks": "2024-12-13 20:42:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/handcrafted.main/hc/biomesoplenty/cherry_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
     },
     "done": true
   },
@@ -7524,6 +7713,12 @@
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 19:38:47 +0000"
     },
     "done": true
   },
@@ -7785,6 +7980,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/biomesoplenty/cherry_window_pane": {
+    "criteria": {
+      "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 01:21:22 +0000"
@@ -7968,6 +8169,12 @@
   "design_decor:recipes/design_decor/granite_castel_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-13 20:03:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 19:37:29 +0000"
     },
     "done": true
   },
