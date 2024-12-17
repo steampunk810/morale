@@ -917,6 +917,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/sponge_from_baking": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-17 22:07:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-13 20:11:09 +0000"
@@ -1019,9 +1025,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-17 22:06:30 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2024-12-11 17:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-17 22:06:37 +0000"
     },
     "done": true
   },
@@ -2676,6 +2694,7 @@
       "entered_flying_dutchman": "2024-12-17 19:21:36 +0000",
       "entered_pirate_ship": "2024-12-17 20:29:52 +0000",
       "entered_deep_crypt": "2024-12-13 20:11:15 +0000",
+      "entered_sunken_shrine": "2024-12-17 22:00:11 +0000",
       "entered_ruined_building": "2024-12-13 21:29:59 +0000"
     },
     "done": false
@@ -2707,6 +2726,12 @@
   "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-13 19:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-17 22:07:24 +0000"
     },
     "done": true
   },
@@ -2799,6 +2824,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-11 01:20:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2024-12-17 22:06:30 +0000"
     },
     "done": true
   },
@@ -3355,6 +3386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-17 22:06:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-11 17:24:13 +0000"
@@ -3670,6 +3707,12 @@
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2024-12-13 23:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-17 22:06:37 +0000"
     },
     "done": true
   },
@@ -5309,6 +5352,12 @@
   "cgm:recipes/cgm/tactical_stock": {
     "criteria": {
       "has_iron_ingot": "2024-12-13 20:14:00 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 22:06:30 +0000"
     },
     "done": true
   },
@@ -7831,6 +7880,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-11 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-17 22:06:30 +0000"
     },
     "done": true
   },

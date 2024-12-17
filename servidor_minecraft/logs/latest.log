@@ -12923,3 +12923,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 21:55:40.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
 [17Dec2024 21:57:51.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [17Dec2024 21:59:25.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/obscuria/obscureapi/api/utils/Icons
+[17Dec2024 22:00:08.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 22:00:35.705] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[17Dec2024 22:00:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 asphyxiated
+[17Dec2024 22:00:35.715] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: -5301.872248414274, Y: 61.39999997615814, Z: -887.2825828618115
+[17Dec2024 22:00:48.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 22:01:12.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [melman810: Applied effect Ice Resistance to moralepri23]
+[17Dec2024 22:01:59.725] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player melman810 picking up: PermanentItemEntity['Extradimensional Vessel'/60353, l='ServerLevel[world]', x=-5301.87, y=62.90, z=-887.28]
+[17Dec2024 22:01:59.725] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/60353, l='ServerLevel[world]', x=-5301.87, y=62.90, z=-887.28]
+[17Dec2024 22:04:10.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 22:04:17.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[17Dec2024 22:08:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 has made the advancement [Perfect Instance]
+[17Dec2024 22:10:02.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already

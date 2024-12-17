@@ -1560,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-17 22:09:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-17 20:15:30 +0000"
@@ -2007,6 +2013,12 @@
   "everycomp:recipes/everycomp/hc/biomesoplenty/cherry_side_table": {
     "criteria": {
       "has_planks": "2024-12-17 19:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-17 22:07:06 +0000"
     },
     "done": true
   },
@@ -4701,6 +4713,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2024-12-17 22:08:18 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/bamboo_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-17 19:38:47 +0000"
@@ -4906,6 +4924,7 @@
       "entered_deep_crypt": "2024-12-13 20:27:35 +0000",
       "entered_tall_witch_hut": "2024-12-13 23:23:59 +0000",
       "entered_watch_tower": "2024-12-13 21:24:00 +0000",
+      "entered_sunken_shrine": "2024-12-17 22:00:16 +0000",
       "entered_ruined_building": "2024-12-13 21:29:13 +0000"
     },
     "done": false
@@ -4967,6 +4986,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-13 19:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-17 22:09:05 +0000"
     },
     "done": true
   },
@@ -5864,6 +5889,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2024-12-17 22:08:18 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/redstone/pine_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-11 17:21:59 +0000"
@@ -5996,6 +6027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-17 22:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-13 23:30:38 +0000"
@@ -6095,6 +6132,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-17 22:07:06 +0000"
     },
     "done": true
   },
@@ -6873,6 +6916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-17 22:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-11 01:34:18 +0000"
@@ -7352,6 +7401,12 @@
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2024-12-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-17 22:09:05 +0000"
     },
     "done": true
   },
