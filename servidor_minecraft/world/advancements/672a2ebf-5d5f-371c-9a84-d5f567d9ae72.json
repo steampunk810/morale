@@ -8353,6 +8353,12 @@
     },
     "done": true
   },
+  "create_central_kitchen:recipes/crafting/aloe_gel_bottles_from_bucket": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-17 19:50:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-11 01:17:44 +0000"
@@ -8734,6 +8740,12 @@
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "temperature": "2024-12-10 18:06:31 +0000"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/mulberry_jam_bottles_from_bucket": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-17 19:50:20 +0000"
     },
     "done": true
   },

@@ -12613,3 +12613,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 19:44:48.084] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [17Dec2024 19:44:53.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
 [17Dec2024 19:44:53.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5967ms or 119 ticks behind
+[17Dec2024 19:58:08.506] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ba34942
