@@ -2556,6 +2556,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/runic_glass": {
+    "criteria": {
+      "has_rune": "2024-12-18 00:30:26 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_fence_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-13 23:36:53 +0000"
@@ -5938,6 +5944,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/rune_block_from_rune": {
+    "criteria": {
+      "has_rune": "2024-12-18 00:30:26 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2024-12-13 20:32:35 +0000"
@@ -7824,6 +7836,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/dark_rune": {
+    "criteria": {
+      "has_rune": "2024-12-18 00:30:26 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
       "has_the_recipe": "2024-12-11 01:14:32 +0000"
@@ -8667,6 +8685,12 @@
       "log_spam_fixer": "2024-12-11 01:14:35 +0000"
     },
     "done": false
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/test_tube": {
+    "criteria": {
+      "has_item": "2024-12-18 00:30:26 +0000"
+    },
+    "done": true
   },
   "delightful:recipes/food/salmonberry_ice_cream_no_neapolitan": {
     "criteria": {
