@@ -40,3 +40,7 @@
 [18Dec2024 01:22:41.926] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [18Dec2024 01:22:41.927] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to melman810
 [18Dec2024 01:22:42.833] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to melman810 (672a2ebf-5d5f-371c-9a84-d5f567d9ae72)
+[18Dec2024 01:35:56.922] [Worker-Main-1058/WARN] [ModernFix/]: The namespace betterfortresses contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Dec2024 01:36:35.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: melman810 lost connection: Disconnected
+[18Dec2024 01:36:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 left the game
+[18Dec2024 01:36:35.849] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
