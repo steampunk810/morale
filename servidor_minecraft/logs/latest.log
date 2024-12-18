@@ -12972,3 +12972,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:any_of'
 [17Dec2024 23:41:59.713] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
 [17Dec2024 23:46:40.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by Dissident
 [17Dec2024 23:46:40.650] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for moralepri23 at X: -3536.6725219101077, Y: 65.0, Z: -933.167712044759
+[17Dec2024 23:53:56.214] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ef1c688
+[17Dec2024 23:53:56.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: melman810[/127.25.85.211:35645] logged in with entity id 82146 at (-3538.699999988079, 65.0, -919.3000000119209)
+[17Dec2024 23:53:56.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to melman810
+[17Dec2024 23:53:56.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to melman810
+[17Dec2024 23:53:56.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to melman810
+[17Dec2024 23:53:56.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to melman810
+[17Dec2024 23:53:56.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to melman810
+[17Dec2024 23:53:56.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to melman810
+[17Dec2024 23:53:56.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to melman810
+[17Dec2024 23:53:56.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: melman810 joined the game
+[17Dec2024 23:53:56.419] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 672a2ebf-5d5f-371c-9a84-d5f567d9ae72
+[17Dec2024 23:53:56.423] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: melman810
+[17Dec2024 23:53:56.437] [Server thread/INFO] [Jade/]: Syncing config to melman810 (672a2ebf-5d5f-371c-9a84-d5f567d9ae72)
+[17Dec2024 23:53:56.440] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to melman810...
+[17Dec2024 23:53:56.440] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 23:53:56.441] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to melman810
+[17Dec2024 23:53:57.350] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to melman810 (672a2ebf-5d5f-371c-9a84-d5f567d9ae72)
+[17Dec2024 23:54:04.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moralepri23 was slain by Dissident
+[17Dec2024 23:54:12.919] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player moralepri23 picking up: PermanentItemEntity['Extradimensional Vessel'/81985, l='ServerLevel[world]', x=-3536.67, y=66.50, z=-933.17]
+[17Dec2024 23:54:12.919] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/81985, l='ServerLevel[world]', x=-3536.67, y=66.50, z=-933.17]
